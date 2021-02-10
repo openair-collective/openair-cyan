@@ -10,7 +10,7 @@ You can take a 5-minute tour of a Cyan system and learn more about the details o
 
 If you have twenty-something minutes, details about the device design, current challenges, opportunities and big questions, and the Cyan mission's general goals and aspirations are available here:
 
-[![TSM: Hello, Cyan! - with Dahl Winters](https://i.imgur.com/vtEUvj4.jpeg)](https://www.youtube.com/watch?v=98940CgZHI0 "TSM: Hello, Cyan! - with Dahl Winters")
+<a href="https://www.youtube.com/watch?v=98940CgZHI0"><img src="https://i.imgur.com/vtEUvj4.jpeg" width="400" alt="TSM: Hello, Cyan! - with Dahl Winters" /></a>
 
 # Documents Provided
 
