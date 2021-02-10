@@ -4,6 +4,10 @@ Welcome to the documentation for Cyan, a DIY small-scale open hardware direct ai
 # Purpose
 This portable direct air carbon capture system operates at a small enough scale to empower individuals to tangibly offset a piece of their emissions. It is also designed to get people actively thinking and sharing their carbon footprint and their role in the carbon cycle. 
 
+Details about the device design, current challenges, opportunities and big questions, and the Cyan mission's general goals and aspirations are available here:
+
+[![TSM: Hello, Cyan! - with Dahl Winters](https://imgur.com/a/PBm4KiR)](https://www.youtube.com/watch?v=98940CgZHI0 "TSM: Hello, Cyan! - with Dahl Winters")
+
 You can take a tour of a Cyan system and learn more about the details of the project here:
 
 [![Cyan 5-Minute Setup and Intro - DIY Carbon Capture](https://i.ytimg.com/an_webp/yOzDFJZBM_w/mqdefault_6s.webp?du=3000&sqp=CPi3kIEG&rs=AOn4CLDrUVs7K7QzNlo0nU506vWRxAd5Yw)](https://www.youtube.com/watch?v=yOzDFJZBM_w "Cyan 5-Minute Setup and Intro - DIY Carbon Capture")
