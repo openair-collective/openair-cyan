@@ -26,7 +26,9 @@ The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan%2
 
 The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan%20-%20CO2%20Capture%20Measurements.xlsx">CO2 Capture Measurements</a> describe results obtained so far on how well this system can perform.
 
-# Additional Details
+For additional information, please view the <a href="https://github.com/openair-collective/openair-cyan/wiki">wiki</a>.
+
+# Carbon Capture Details
 
 ## Inputs and Outputs
 
