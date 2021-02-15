@@ -1,24 +1,26 @@
 # openair-cyan
-Welcome to the documentation for Cyan, a DIY small-scale open hardware direct air carbon capture (DACC) system.
+Welcome to the documentation for Cyan v.1, a DIY small-scale open hardware direct air carbon capture (DACC) system.
 
 # Purpose
 This portable direct air carbon capture system operates at a small enough scale to empower individuals to tangibly offset a piece of their emissions. It is also designed to get people actively thinking and sharing their carbon footprint and their role in the carbon cycle. 
 
 You can take a 5-minute tour of a Cyan system and learn more about the details of the project here:
 
-[![Cyan 5-Minute Setup and Intro - DIY Carbon Capture](https://i.ytimg.com/an_webp/yOzDFJZBM_w/mqdefault_6s.webp?du=3000&sqp=CPi3kIEG&rs=AOn4CLDrUVs7K7QzNlo0nU506vWRxAd5Yw)](https://www.youtube.com/watch?v=yOzDFJZBM_w "Cyan 5-Minute Setup and Intro - DIY Carbon Capture")
+<a href="https://www.youtube.com/watch?v=yOzDFJZBM_w">Cyan 5-Minute Setup and Intro - DIY Carbon Capture</a>
 
 If you have twenty-something minutes, details about the device design, current challenges, opportunities and big questions, and the Cyan mission's general goals and aspirations are available here:
 
+<div align="center">
 <a href="https://www.youtube.com/watch?v=98940CgZHI0"><img src="https://i.imgur.com/vtEUvj4.jpeg" width="400" alt="TSM: Hello, Cyan! - with Dahl Winters" /></a>
+</div>
 
 # Documents Provided
 
-The Cyan Assembly Instructions will get you started with an overview of how it works, a parts list, and instructions for putting it together.
+The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan_Assembly_Instructions.pdf">Cyan Assembly Instructions</a> will get you started with an overview of how it works, a parts list, and instructions for putting it together.
 
-The Supporting System Calculations describe the logic that went into designing the system, from a LCA/TEA perspective.
+The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan%20-%20Supporting%20System%20Calculations.xlsx">Supporting System Calculations</a> describe the logic that went into designing the system, from a LCA/TEA perspective.
 
-The CO2 Capture Measurements describe results obtained so far on how well this system can perform.
+The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan%20-%20CO2%20Capture%20Measurements.xlsx">CO2 Capture Measurements</a> describe results obtained so far on how well this system can perform.
 
 # Additional Details
 
@@ -44,4 +46,4 @@ The fan uses 3 watts but only needs to be run intermittently to refresh the air 
 
 # License
 
-All materials provided here and future software additions (for example, to control the duty cycles) are licensed under the GNU General Public License v3.0 (GPL-3.0).
+All hardware materials and designs provided here are licensed under the <a href="https://opensource.org/CERN-OHL-P">CERN-OHL-P</a> hardware license. All software is under the GNU General Public License v3.0 (GPL-3.0).
