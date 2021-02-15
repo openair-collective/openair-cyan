@@ -10,8 +10,7 @@ This portable system operates at a small enough scale to empower individuals to 
 
 You can take a 5-minute tour of a Cyan system and learn more about the details of the project here:
 
-<a href="https://www.youtube.com/watch?v=yOzDFJZBM_w" target="_blank">Cyan 5-Minute Setup and Intro - DIY Carbon Capture<br/>
-<img src="https://github.com/openair-collective/openair-cyan/blob/main/images/assemblyinst/topdown_reaction_chamber.png?raw=true width="400" alt="Cyan 5-Minute Setup and Intro - DIY Carbon Capture" /></a>
+<a href="https://www.youtube.com/watch?v=yOzDFJZBM_w" target="_blank">Cyan 5-Minute Setup and Intro - DIY Carbon Capture<br/><img src="https://github.com/openair-collective/openair-cyan/blob/main/images/assemblyinst/topdown_reaction_chamber.png?raw=true width="400" alt="Cyan 5-Minute Setup and Intro - DIY Carbon Capture" /></a>
 
 If you have twenty-something minutes, details about the device design, current challenges, opportunities and big questions, and the Cyan mission's general goals and aspirations are available here:
 
