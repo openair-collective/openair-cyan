@@ -2,7 +2,7 @@
 Welcome to the documentation for Cyan v.1, a DIY small-scale open hardware direct air carbon capture (DACC) system.
 
 <div align="center">
-<a href="https://github.com/openair-collective/openair-cyan/wiki"><img src="https://raw.githubusercontent.com/openair-collective/openair-cyan/main/images/assemblyinst/cyan_side_view.png" width="400" alt="Cyan version 1" /></a>
+<a href="https://www.youtube.com/watch?v=yOzDFJZBM_w&t=2s"><img src="https://github.com/openair-collective/openair-cyan/blob/main/images/assemblyinst/cyan_blk_bg.png" width="400" alt="Cyan version 1" /></a>
 </div>
 
 # Purpose
