@@ -6,7 +6,7 @@ Welcome to the documentation for Cyan v.1, a DIY small-scale open hardware direc
 </div>
 
 # Purpose
-This portable direct air carbon capture system operates at a small enough scale to empower individuals to tangibly offset a piece of their emissions. It is also designed to get people actively thinking and sharing their carbon footprint and their role in the carbon cycle. 
+This portable system operates at a small enough scale to empower individuals to tangibly offset a piece of their emissions. It is also designed to get people actively thinking and sharing their carbon footprint and their role in the carbon cycle. 
 
 You can take a 5-minute tour of a Cyan system and learn more about the details of the project here:
 
@@ -18,7 +18,13 @@ If you have twenty-something minutes, details about the device design, current c
 <a href="https://www.youtube.com/watch?v=98940CgZHI0"><img src="https://i.imgur.com/vtEUvj4.jpeg" width="400" alt="TSM: Hello, Cyan! - with Dahl Winters" /></a>
 </div>
 
-# Documents Provided
+# Vision
+
+Cyan is named in honor of cyanobacteria. As cyanobacteria did with oxygen, the vision was that many of these small-scale DACC units might come to have a significant impact on atmospheric CO2 and thus climate change. If not directly due to their small size, then indirectly through the promotion of DACC as a technology and through the educational experience of using Cyan.
+
+The educational experience might be the biggest way that Cyan units will combat climate change. One can quickly see what CO2 emissions look like in trapped form, how much it weighs, and how long it takes to capture it. DACC starts to become a conversation point among friends and family. People start wanting to run Cyans to erase the emissions from their light bulbs, for example. And if they can neutralize those emissions, what’s next? Household emissions? Should I buy a bigger DACC unit to cover my home’s emissions? And so on. 
+
+# The Documentation, Wiki, and Project Updates
 
 The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan_Assembly_Instructions.pdf">Cyan Assembly Instructions</a> will get you started with an overview of how it works, a parts list, and instructions for putting it together.
 
@@ -26,7 +32,11 @@ The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan%2
 
 The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan%20-%20CO2%20Capture%20Measurements.xlsx">CO2 Capture Measurements</a> describe results obtained so far on how well this system can perform.
 
-For additional information, please view the <a href="https://github.com/openair-collective/openair-cyan/wiki">wiki</a>.
+For additional information, please view the <a href="https://github.com/openair-collective/openair-cyan/wiki">wiki</a>. 
+
+To see an overview of where we are with current progress, please view the <a href="https://github.com/openair-collective/openair-cyan/projects/1">Projects board</a>.
+
+Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are <a href="https://www.openairforum.org/t/cyan-project-progress/105/14">available here</a>.
 
 # Carbon Capture Details
 
