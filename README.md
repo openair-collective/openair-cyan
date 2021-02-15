@@ -1,6 +1,10 @@
 # openair-cyan
 Welcome to the documentation for Cyan v.1, a DIY small-scale open hardware direct air carbon capture (DACC) system.
 
+<div align="center">
+<a href="https://github.com/openair-collective/openair-cyan/wiki"><img src="https://raw.githubusercontent.com/openair-collective/openair-cyan/main/images/assemblyinst/cyan_side_view.png" width="400" alt="Cyan version 1" /></a>
+</div>
+
 # Purpose
 This portable direct air carbon capture system operates at a small enough scale to empower individuals to tangibly offset a piece of their emissions. It is also designed to get people actively thinking and sharing their carbon footprint and their role in the carbon cycle. 
 
