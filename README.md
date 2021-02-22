@@ -42,6 +42,10 @@ Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are <a
 
 # Carbon Capture Details
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/openair-collective/openair-cyan/main/images/assemblyinst/Cyan_Process.jpg" width="600" alt="Diagram of Cyan's Carbon Removal Process" />
+</div>
+
 ## Inputs and Outputs
 
 The input material, calcium hydroxide, can be found in any home improvement store as hydrated lime. However, for Cyan to be carbon-negative the input must either be sourced from a low-carbon supplier or obtained from waste cement. We are exploring the latter at the moment as potentially another open-source project.
