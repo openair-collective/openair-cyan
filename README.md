@@ -6,7 +6,7 @@ Welcome to the documentation for Cyan v.1, a DIY small-scale open hardware direc
 </div>
 
 # Purpose
-This portable system operates at a small enough scale to empower individuals to tangibly offset a piece of their emissions. It is also designed to get people actively thinking and sharing their carbon footprint and their role in the carbon cycle. 
+This portable system operates at a small enough scale to empower individuals to tangibly experience carbon removal. It is also designed to get people actively thinking and sharing their carbon footprint and their role in the carbon cycle. 
 
 You can take a 5-minute tour of a Cyan system and learn more about the details of the project here:
 
@@ -48,7 +48,7 @@ Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are <a
 
 ## Inputs and Outputs
 
-The input material, calcium hydroxide, can be found in any home improvement store as hydrated lime. However, for Cyan to be carbon-negative the input must either be sourced from a low-carbon supplier or obtained from waste cement. We are exploring the latter at the moment as potentially another open-source project.
+The input material, calcium hydroxide, can be found in any home improvement store as hydrated lime. However, for Cyan to be carbon-negative the input must either be sourced from a low-carbon supplier or obtained from waste cement.
 
 The output material, calcium carbonate can be used in building materials (cement-lime) or as agricultural lime.
 
