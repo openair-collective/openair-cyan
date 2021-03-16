@@ -28,13 +28,13 @@ The educational experience might be the biggest way that Cyan units will combat 
 
 # The Documentation, Wiki, and Project Updates
 
-The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan_Assembly_Instructions.pdf">Cyan Assembly Instructions</a> will get you started with an overview of how it works, a parts list, and instructions for putting it together.
+The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan_Assembly_Instructions.pdf">Cyan Assembly Instructions</a> will get you started with an overview of how it works, a parts list, and instructions for putting it together. All this information is also found on our <a href="https://github.com/openair-collective/openair-cyan/wiki">Wiki</a>.
 
 The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan%20-%20Supporting%20System%20Calculations.xlsx">Supporting System Calculations</a> describe the logic that went into designing the system, from a LCA/TEA perspective.
 
 The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan%20-%20CO2%20Capture%20Measurements.xlsx">CO2 Capture Measurements</a> describe results obtained so far on how well this system can perform.
 
-For additional information, please view the <a href="https://github.com/openair-collective/openair-cyan/wiki">wiki</a>. 
+To report your modifications, experimental results, and feedback for making Cyan better, please visit the <a href="https://sites.google.com/view/cyan-datashare/">Cyan DataShare</a> site.
 
 To see an overview of where we are with current progress, please view the <a href="https://github.com/openair-collective/openair-cyan/projects/1">Projects board</a>.
 
