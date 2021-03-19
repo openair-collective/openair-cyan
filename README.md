@@ -68,4 +68,4 @@ The fan uses 3 watts but only needs to be run intermittently to refresh the air 
 
 # License
 
-All hardware materials and designs provided here are licensed under the <a href="https://opensource.org/CERN-OHL-P">CERN-OHL-P</a> hardware license. All software is under the GNU General Public License v3.0 (GPL-3.0).
+All hardware materials and designs provided here are licensed under the <a href="https://opensource.org/CERN-OHL-P">CERN-OHL-P</a> hardware license. All software is under the GNU General Public License v3.0 (GPL-3.0). All documentation is under the Creative Commons CC-BY-SA-4.0 license.
