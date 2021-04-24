@@ -1,5 +1,5 @@
 # openair-cyan
-Welcome to the documentation for Cyan v.1, a DIY small-scale open hardware direct air carbon capture (DACC) system.
+Welcome to the documentation for the Cyan Decarbonizer v.1, a DIY small-scale open hardware direct air carbon capture (DACC) system.
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=yOzDFJZBM_w&t=2s"><img src="https://github.com/openair-collective/openair-cyan/blob/main/images/assemblyinst/cyan_blk_bg.png" width="400" alt="Cyan version 1" /></a>
@@ -26,9 +26,11 @@ Cyan is named in honor of cyanobacteria. As cyanobacteria did with oxygen, the v
 
 The educational experience might be the biggest way that Cyan units will combat climate change. One can quickly see what CO2 emissions look like in trapped form, how much it weighs, and how long it takes to capture it. DACC starts to become a conversation point among friends and family. People start wanting to run Cyans to erase the emissions from their light bulbs, for example. And if they can neutralize those emissions, what’s next? Household emissions? Should I buy a bigger DACC unit to cover my home’s emissions? And so on. 
 
-# The Documentation, Wiki, and Project Updates
+# The Documentation, Q&A, Wiki, and Project Updates
 
 The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan_Assembly_Instructions.pdf">Cyan Assembly Instructions</a> will get you started with an overview of how it works, a parts list, and instructions for putting it together. All this information is also found on our <a href="https://github.com/openair-collective/openair-cyan/wiki">Wiki</a>.
+
+We now have a <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan_Q_and_A.md">Cyan Q&A</a> that goes over some common general and technical questions.
 
 The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan%20-%20Supporting%20System%20Calculations.xlsx">Supporting System Calculations</a> describe the logic that went into designing the system, from a LCA/TEA perspective.
 
@@ -51,6 +53,8 @@ Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are <a
 The input material, calcium hydroxide, can be found in any home improvement store as hydrated lime. However, for Cyan to be carbon-negative the input must either be sourced from a low-carbon supplier or obtained from waste cement.
 
 The output material, calcium carbonate can be used in building materials (cement-lime) or as agricultural lime.
+
+Magnesium hydroxide is also an option for use as the input material. Though perhaps more expensive depending on the source, it is less alkaline than calcium hydroxide and has performed as well to slightly better than calcium hydroxide in carbon capture effectiveness in our Cyan tests. It can also be used to make tiles or blocks when mixed with cement and optionally biochar. We hope to have a low-carbon supplier later this year.
 
 ## Emissions Reduction
 
