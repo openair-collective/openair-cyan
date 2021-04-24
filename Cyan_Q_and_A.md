@@ -76,7 +76,7 @@ A17. There are a number of factors involved. Increases in temperature and pressu
 
 A18. We believe we are not seeing laminar airflow in our system given the fluid properties and speeds of the air. The air is likely already turbulent, and especially so when the fan is being used for drying. If the air is made even more turbulent, efficiency could possibly improve, but this has not been tested.
 
-<b>Q19. Has there been any confirmation of the accuracy of the weighing method for measuring captured CO2?<b>
+<b>Q19. Has there been any confirmation of the accuracy of the weighing method for measuring captured CO2?</b>
 
 A19. The weighing method is called gravimetric analysis and is widely used in chemistry for measuring the amount of a compound based on its mass. It suffers from the ability of product to be lost through container transfers and through evaporation. Of higher accuracy would be thermogravimetric analysis, but this is expensive and time consuming.
 
