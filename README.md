@@ -1,5 +1,5 @@
 # openair-cyan
-Welcome to the documentation for the Cyan Decarbonizer v.1, a DIY small-scale open hardware direct air carbon capture (DACC) system. To view our current development projects and how you can help, click Projects above.
+Welcome to the documentation for the Cyan Decarbonizer v.1, a DIY small-scale open hardware direct air carbon capture (DACC) system. To view our current development projects and how you can help, click <a href="https://github.com/openair-collective/openair-cyan/projects">Projects</a> here or above.
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=yOzDFJZBM_w&t=2s"><img src="https://github.com/openair-collective/openair-cyan/blob/main/images/assemblyinst/cyan_blk_bg.png" width="400" alt="Cyan version 1" /></a>
