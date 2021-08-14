@@ -66,9 +66,9 @@ It is within theoretical possibility for this unit to remove the emissions of 20
 
 The calcium hydroxide needs to be exposed to high humidity from between 3 to 16 hours to achieve a good level of carbonation. Keeping the electricity consumption low will ensure Cyan removes more CO2 than it emits through electricity use.
 
-Cyan uses 1.5 watts of electricity to power the air pump which bubbles air through water and humidifies the calcium hydroxide, allowing CO2 to be absorbed. However, the air pump does not need to be run continuously to maintain adequate humidification. A duty cycle of, say, 10 minutes on, 50 minutes off is possible. 
+Cyan uses 1.5 watts of electricity to power the air pump which bubbles air through water and humidifies the calcium hydroxide, allowing CO2 to be absorbed. However, the air pump does not need to be run continuously to maintain adequate humidification. A duty cycle of, say, 10 minutes on, 50 minutes off is possible and suggested for negative emissions (more CO2 removed than consumed by the air pump). 
 
-The fan uses 3 watts but only needs to be run intermittently to refresh the air inside the box. The fan is also useful to speed up dry time but this is not essential for operation.
+The fan uses 3 watts but only needs to be run intermittently to refresh the air inside the box. The fan is also useful to speed up dry time but this is not essential for operation. If you're going for negative emissions, air drying would really help unless you are using renewable energy to power your unit.
 
 # Licenses
 
