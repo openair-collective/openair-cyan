@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/issues) [![GitHub forks](https://img.shields.io/github/forks/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/network) [![GitHub stars](https://img.shields.io/github/stars/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/stargazers) [![GitHub license](https://img.shields.io/github/license/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/issues) [![GitHub forks](https://img.shields.io/github/forks/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/network) [![GitHub stars](https://img.shields.io/github/stars/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/stargazers)
 
 <p align="center">
    <img width="550px" height="150px" title="Open-Air-Logo" src="imgs/openair-logo.png">
@@ -91,6 +91,8 @@ The calcium hydroxide needs to be exposed to high humidity from between `3 to 16
 The fan uses `3 watts` but only needs to be run intermittently to refresh the air inside the box. The fan is also useful to speed up dry time but this is *not essential for operation*. If you're going for negative emissions, air drying would really help unless you are using renewable energy to power your unit.
 
 # Licenses
+
+[![GitHub license](https://img.shields.io/github/license/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/blob/master/LICENSE)
 
 ***All hardware materials and designs provided here are licensed under the [CERN-OHL-P](https://opensource.org/CERN-OHL-P) hardware license.
 All software is under the GNU General Public License v3.0 (GPL-3.0).
