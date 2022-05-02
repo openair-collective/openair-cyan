@@ -2,11 +2,11 @@
 
 Welcome to the documentation for the Cyan Decarbonizer version 1, a DIY small-scale open hardware direct air carbon capture (DACC) system.
 
-| ![Build Status](/imgs/assemblyinst/cyan_side_view_annotated.png) |
+| ![Build Status](https://github.com/openair-collective/openair-cyan/blob/docs/imgs/assemblyinst/cyan_side_view_annotated.png) |
 |:--:|
 | *The outer box and fan are optional for experimentation. The humidification chamber and air pump are the minimum required items.* |
 
-{% include image.html url="https://github.com/openair-collective/openair-cyan/blob/docs/imgs/assemblyinst/cyan_side_view_annotated.png" description="The outer box and fan are optional for experimentation. The humidification chamber and air pump are the minimum required items." %}
+<!-- {% include image.html url="https://github.com/openair-collective/openair-cyan/blob/docs/imgs/assemblyinst/cyan_side_view_annotated.png" description="The outer box and fan are optional for experimentation. The humidification chamber and air pump are the minimum required items." %} -->
 
 ## Purpose
 
