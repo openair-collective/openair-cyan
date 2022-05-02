@@ -2,7 +2,7 @@ title: "Open Air Cyan Documentation"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "light"
 search_enabled: true
-logo: "/imgs/openair-logo.png"
+logo: "./assets/images/assemblyinst/cyan_side_view.png"
 heading_level: 6
 previews: 3
 preview_words_before: 5
