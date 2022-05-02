@@ -101,3 +101,5 @@ All documentation, including the Wiki, is under the Creative Commons CC-BY-SA-4.
 <div align="center">
 <img src="imgs/licenses/licenses.svg" width="300" alt="Open Licenses" />
 </div>
+
+[Top](#openair-cyan)
