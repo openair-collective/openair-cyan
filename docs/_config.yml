@@ -1,6 +1,6 @@
 title: "Open Air Cyan Documentation"
 remote_theme: just-the-docs/just-the-docs
-color_scheme: "dark"
+color_scheme: "light"
 search_enabled: true
 logo: "/imgs/openair-logo.png"
 heading_level: 6
