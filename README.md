@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/issues) [![GitHub forks](https://img.shields.io/github/forks/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/network) [![GitHub stars](https://img.shields.io/github/stars/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/stargazers)
 
 <p align="center">
-   <img width="550px" height="150px" title="Open-Air-Logo" src="imgs/openair-logo.png">
+   <img width="550px" height="150px" title="Open-Air-Logo" src="./docs/assets/imgs/openair-logo.png">
 </p>
 
 ---
@@ -21,7 +21,7 @@
 Welcome to the documentation for the **Cyan Decarbonizer v.1**, a *DIY small-scale open hardware direct air carbon capture* (DACC) system. To view our current development projects and how you can help, click [Projects](https://github.com/openair-collective/openair-cyan/projects) here or above.
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=yOzDFJZBM_w&t=2s"><img src="imgs/assemblyinst/cyan_blk_bg.png" width="400" alt="Cyan version 1" /></a>
+<a href="https://www.youtube.com/watch?v=yOzDFJZBM_w&t=2s"><img src="./docs/assets/imgs/assemblyinst/cyan_blk_bg.png" width="400" alt="Cyan version 1" /></a>
 </div>
 
 # Purpose
@@ -31,7 +31,7 @@ This portable system operates at a small enough scale to empower individuals to 
 You can take a 5-minute tour of a Cyan system and learn more about the details of the project here:
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=yOzDFJZBM_w" target="_blank">Cyan 5-Minute Setup and Intro - DIY Carbon Capture<br/><img src="imgs/assemblyinst/topdown_reaction_chamber.png?raw=true width="400" alt="Cyan 5-Minute Setup and Intro - DIY Carbon Capture" /></a>
+<a href="https://www.youtube.com/watch?v=yOzDFJZBM_w" target="_blank">Cyan 5-Minute Setup and Intro - DIY Carbon Capture<br/><img src="./docs/assets/imgs/assemblyinst/topdown_reaction_chamber.png?raw=true width="400" alt="Cyan 5-Minute Setup and Intro - DIY Carbon Capture" /></a>
 </div>
 
 If you have twenty-something minutes, details about the device design, current challenges, opportunities and big questions, and the Cyan mission's general goals and aspirations are available here:
@@ -65,7 +65,7 @@ Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are [a
 # Carbon Capture Details
 
 <div align="center">
-<img src="imgs/assemblyinst/Cyan_Process.jpg" width="600" alt="Diagram of Cyan's Carbon Removal Process" />
+<img src="./docs/assets/imgs/assemblyinst/Cyan_Process.jpg" width="600" alt="Diagram of Cyan's Carbon Removal Process" />
 </div>
 
 ## Inputs and Outputs
@@ -99,7 +99,7 @@ All software is under the GNU General Public License v3.0 (GPL-3.0).
 All documentation, including the Wiki, is under the Creative Commons CC-BY-SA-4.0 license***.
 
 <div align="center">
-<img src="imgs/licenses/licenses.svg" width="300" alt="Open Licenses" />
+<img src="./docs/assets/imgs/licenses/licenses.svg" width="300" alt="Open Licenses" />
 </div>
 
 [Top](#openair-cyan)
