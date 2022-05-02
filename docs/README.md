@@ -6,7 +6,7 @@ Welcome to the documentation for the Cyan Decarbonizer version 1, a DIY small-sc
 |:--:|
 | *The outer box and fan are optional for experimentation. The humidification chamber and air pump are the minimum required items.* |
 
-{% include image.html url="/imgs/assemblyinst/cyan_side_view_annotated.png" description="The outer box and fan are optional for experimentation. The humidification chamber and air pump are the minimum required items." %}
+{% include image.html url="https://github.com/openair-collective/openair-cyan/blob/docs/imgs/assemblyinst/cyan_side_view_annotated.png" description="The outer box and fan are optional for experimentation. The humidification chamber and air pump are the minimum required items." %}
 
 ## Purpose
 
