@@ -13,7 +13,8 @@ button: true
 aux_links:
   "Documentation":
     - "//github.com/openair-collective/openair-cyan/tree/docs/docs/Reference_Docs"
-  "Code":"//github.com/openair-collective/openair-cyan/tree/docs/Code"
+  "Code":
+    - "//github.com/openair-collective/openair-cyan/tree/docs/Code"
 aux_links_new_tab: false
 heading_anchors: true
 gh_edit_link: true # show or hide edit this page link
