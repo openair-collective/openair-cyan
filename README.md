@@ -8,7 +8,7 @@
 
 # OpenAir-Cyan
 
-Welcome to the documentation for the Cyan Decarbonizer v.1, a DIY small-scale open hardware direct air carbon capture (DACC) system. To view our current development projects and how you can help, click <a href="https://github.com/openair-collective/openair-cyan/projects">Projects</a> here or above.
+Welcome to the documentation for the Cyan Decarbonizer v.1, a DIY small-scale open hardware direct air carbon capture (DACC) system. To view our current development projects and how you can help, click [Projects](https://github.com/openair-collective/openair-cyan/projects) here or above.
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=yOzDFJZBM_w&t=2s"><img src="imgs/assemblyinst/cyan_blk_bg.png" width="400" alt="Cyan version 1" /></a>
@@ -38,19 +38,19 @@ The educational experience might be the biggest way that Cyan units will combat 
 
 # The Documentation, Q&A, Wiki, and Project Updates
 
-The <a href="docs/Reference_Docs/assembly/Cyan_Assembly_Instructions.pdf">Cyan Assembly Instructions</a> will get you started with an overview of how it works, a parts list, and instructions for putting it together. All this information is also found on our <a href="https://github.com/openair-collective/openair-cyan/wiki">Wiki</a>.
+The [Cyan Assembly Instructions](docs/Reference_Docs/assembly/Cyan_Assembly_Instructions.pdf) will get you started with an overview of how it works, a parts list, and instructions for putting it together. All this information is also found on our [Wiki](https://github.com/openair-collective/openair-cyan/wiki).
 
-We now have a <a href="extras/Cyan_Q_and_A.md">Cyan Q&A</a> that goes over some common general and technical questions.
+We now have a [Cyan Q&A](extras/Cyan_Q_and_A.md) that goes over some common general and technical questions.
 
-The <a href="https://github.com/openair-collective/openair-cyan/blob/main/Cyan%20-%20Supporting%20System%20Calculations.xlsx">Supporting System Calculations</a> describe the logic that went into designing the system, from a LCA/TEA perspective.
+The [Supporting System Calculations](docs/Reference_Docs/data/Cyan%20-%20Supporting%20System%20Calculations.xlsx) describe the logic that went into designing the system, from a LCA/TEA perspective.
 
-The <a href="docs/Reference_Docs/data/Cyan%20-%20CO2%20Capture%20Measurements.xlsx">CO2 Capture Measurements</a> describe results obtained so far on how well this system can perform.
+The [CO2 Capture Measurements](docs/Reference_Docs/data/Cyan%20-%20CO2%20Capture%20Measurements.xlsx) describe results obtained so far on how well this system can perform.
 
-To report your modifications, experimental results, and feedback for making Cyan better, please visit the <a href="https://sites.google.com/view/cyan-datashare/">Cyan DataShare</a> site.
+To report your modifications, experimental results, and feedback for making Cyan better, please visit the [Cyan DataShare](https://sites.google.com/view/cyan-datashare/) site.
 
-To see an overview of where we are with current progress, please view the <a href="https://github.com/openair-collective/openair-cyan/projects/1">Projects board</a>.
+To see an overview of where we are with current progress, please view the [Projects board](https://github.com/openair-collective/openair-cyan/projects/1).
 
-Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are <a href="https://www.openairforum.org/t/cyan-project-progress/105/14">available here</a>.
+Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are [available here](https://www.openairforum.org/t/cyan-project-progress/105/14).
 
 # Carbon Capture Details
 
@@ -82,7 +82,7 @@ The fan uses 3 watts but only needs to be run intermittently to refresh the air 
 
 # Licenses
 
-All hardware materials and designs provided here are licensed under the <a href="https://opensource.org/CERN-OHL-P">CERN-OHL-P</a> hardware license.
+All hardware materials and designs provided here are licensed under the [CERN-OHL-P](https://opensource.org/CERN-OHL-P) hardware license.
 All software is under the GNU General Public License v3.0 (GPL-3.0).
 All documentation, including the Wiki, is under the Creative Commons CC-BY-SA-4.0 license.
 
