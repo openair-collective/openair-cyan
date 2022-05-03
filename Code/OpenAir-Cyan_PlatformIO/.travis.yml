@@ -1,0 +1,28 @@
+language: python
+python:
+  - '2.7'
+
+sudo: false
+cache:
+  directories:
+    - '~/.platformio'
+
+install:
+  - pip install -U platformio
+  - platformio update
+
+script:
+  - echo "Check compiler errors"
+  - platformio run
+
+  - echo "List remote devices"
+  - platformio remote device list
+
+  - echo "Run embedded test on a remote device"
+  - platformio remote test -r
+
+deploy:
+  provider: script
+  script: platformio run -e release -t upload
+#   on:
+#     branch: master
