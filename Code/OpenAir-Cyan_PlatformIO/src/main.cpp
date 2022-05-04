@@ -9,11 +9,6 @@
  */
 
 #include <Arduino.h>
-#ifdef _VARIANT_ARDUINO_DUE_X_
-#include <SoftwareSerial.h>
-#elif _VARIANT_ARDUINO_ZERO_
-#include <SoftwareSerial.h>
-#endif
 
 #define NAVGS 100
 
