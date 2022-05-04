@@ -6,6 +6,24 @@ has_children: false
 permalink: index.html
 ---
 
+[![GitHub issues](https://img.shields.io/github/issues/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/issues) [![GitHub forks](https://img.shields.io/github/forks/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/network) [![GitHub stars](https://img.shields.io/github/stars/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/stargazers)
+
+<p align="center">
+   <img width="550px" height="150px" title="Open-Air-Logo" src="./docs/assets/images/openair-logo.png">
+</p>
+
+---
+
+- [Summary](#summary)
+  - [Purpose](#purpose)
+- [Vision](#vision)
+- [The Documentation, Q&A, Wiki, and Project Updates](#the-documentation-qa-wiki-and-project-updates)
+- [Carbon Capture Details](#carbon-capture-details)
+  - [Inputs and Outputs](#inputs-and-outputs)
+  - [Emissions Reduction](#emissions-reduction)
+  - [Achieving Negative Emissions](#achieving-negative-emissions)
+- [Licenses](#licenses)
+
 # Summary
 
 Welcome to the documentation for the Cyan Decarbonizer version 1, a DIY small-scale open hardware direct air carbon capture (DACC) system.
