@@ -1,3 +1,10 @@
+---
+layout: default
+title: Summary
+nav_order: 1
+has_children: false
+---
+
 # Summary
 
 Welcome to the documentation for the Cyan Decarbonizer version 1, a DIY small-scale open hardware direct air carbon capture (DACC) system.
