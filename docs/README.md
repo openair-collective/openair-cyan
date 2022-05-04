@@ -3,6 +3,7 @@ layout: default
 title: Summary
 nav_order: 1
 has_children: false
+permalink: index.html
 ---
 
 # Summary
