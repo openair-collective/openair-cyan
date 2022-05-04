@@ -9,7 +9,7 @@ permalink: index.html
 [![GitHub issues](https://img.shields.io/github/issues/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/issues) [![GitHub forks](https://img.shields.io/github/forks/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/network) [![GitHub stars](https://img.shields.io/github/stars/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/stargazers)
 
 <p align="center">
-   <img width="550px" height="150px" title="Open-Air-Logo" src="./docs/assets/images/openair-logo.png">
+   <img width="550px" height="150px" title="Open-Air-Logo" src="./assets/images/openair-logo.png">
 </p>
 
 ---
