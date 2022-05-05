@@ -32,7 +32,7 @@ jobs:
       - run: echo "✍ Writing to file."
       - uses: DamianReeves/write-file-action@master
         with:
-          path: ${{ github.workspace }}/docs/test.yml
+          path: ${{ github.workspace }}/docs/_config.yml
           contents: |
              title: 'Open Air Cyan Documentation'
              description: 'Documentation for OpenAir Cyan and related projects'
@@ -130,7 +130,6 @@ jobs:
                lazy_load_comments: true
                comment_replies_enabled: true
           write-mode: overwrite
-      - run: echo "✍ File written with status ${{ job.status }}."
       - name: git
         run: |
           # setup the username and email, use 'GitHub Actions Bot' with no email by default
@@ -144,3 +143,4 @@ jobs:
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: echo "✍ File written with status ${{ job.status }}."
