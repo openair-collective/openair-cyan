@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Summary
-nav_order: 1
+nav_exclude: true
 has_children: false
 permalink: index.html
 ---
@@ -10,17 +10,15 @@ permalink: index.html
 
 ---
 
-- [Summary](#summary)
-  - [Purpose](#purpose)
-- [Vision](#vision)
-- [The Documentation, Q&A, Wiki, and Project Updates](#the-documentation-qa-wiki-and-project-updates)
-- [Carbon Capture Details](#carbon-capture-details)
-  - [Inputs and Outputs](#inputs-and-outputs)
-  - [Emissions Reduction](#emissions-reduction)
-  - [Achieving Negative Emissions](#achieving-negative-emissions)
-- [Licenses](#licenses)
-
 # Summary
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 Welcome to the documentation for the Cyan Decarbonizer version 1, a DIY small-scale open hardware direct air carbon capture (DACC) system.
 
