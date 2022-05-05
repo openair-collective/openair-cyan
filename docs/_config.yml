@@ -1,22 +1,68 @@
 title: 'Open Air Cyan Documentation'
+description: 'Documentation for OpenAir Cyan and related projects'
+author: 'ZanzyTHEbar'
+email: info@h-bat.com
+url: "https://openair-collective.github.io/openair-cyan/"
+
+# Build settings
 remote_theme: just-the-docs/just-the-docs
 color_scheme: 'light'
 search_enabled: true
 logo: './assets/images/openair-logo.png'
 heading_level: 6
 previews: 3
+
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json", "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/"]
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-mermaid
+  - jekyll-spaceship
+ 
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+include: ['_pages']
+timezone: "America/New_York"
+
+# Search options
 preview_words_before: 5
 preview_words_after: 10
 tokenizer_separator: /[\s/]+/
 rel_url: true
 button: true
+
+# Links at the top of the page
 aux_links:
   'Documentation':
     - '//github.com/openair-collective/openair-cyan/tree/main/docs/Reference_Docs'
   'Code':
     - '//github.com/openair-collective/openair-cyan/tree/dev/Code'
+
+# Sitemap options
 aux_links_new_tab: false
 heading_anchors: true
+
+# Enable Back to Top bottom for all pages
+back_to_top: true
+back_to_top_text: "Top"
+
+# Enable last edit timestamp for all pages
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: 'Edit this page on GitHub.'
 gh_edit_repository: 'https://github.com/openair-collective/openair-cyan/' # the github URL for your repo
