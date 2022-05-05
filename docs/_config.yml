@@ -6,6 +6,7 @@ url: 'https://openair-collective.github.io'
 
 # Build settings
 theme: just-the-docs
+#remote_theme: just-the-docs/just-the-docs
 color_scheme: 'openair'
 color_scheme: 'light'
 search_enabled: true
