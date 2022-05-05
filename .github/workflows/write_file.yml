@@ -20,13 +20,14 @@ jobs:
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: List files in the repository
-        run: |
+      - uses: actions/checkout@v2
+      - run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: echo "✍ Writing to file."
       - uses: DamianReeves/write-file-action@master
         with:
-          path: test.yml
+          path: ${{ github.workspace }}/docs/test.yml
           contents: |
              title: 'Open Air Cyan Documentation'
              description: 'Documentation for OpenAir Cyan and related projects'
