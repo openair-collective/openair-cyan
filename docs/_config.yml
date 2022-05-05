@@ -29,7 +29,7 @@ exclude:
     'README.md',
     'Rakefile',
     'docs/tests/',
-    - .sass-cache/,
+    .sass-cache/,
     .jekyll-cache/,
     gemfiles/,
     Gemfile,
