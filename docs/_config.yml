@@ -5,8 +5,8 @@ email: info@h-bat.com
 url: 'https://openair-collective.github.io'
 
 # Build settings
-theme: just-the-docs
-color_scheme: 'openair'
+remote_theme: just-the-docs/just-the-docs
+color_scheme: 'light'
 search_enabled: true
 logo: './assets/images/openair-logo.png'
 heading_level: 6
