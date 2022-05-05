@@ -112,7 +112,7 @@ jobs:
                     chunked_comment_loading: true
                     lazy_load_comments: true
                     comment_replies_enabled: true"
-          write-mode: write
+          write-mode: overwrite
       - run: git config --local user.email "action@github.com"
       - run: git config --local user.name "GitHub Action"
       - run: git add scores
