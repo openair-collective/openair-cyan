@@ -26,9 +26,9 @@ jobs:
       - run: echo "✍ Writing to file."
       - uses: DamianReeves/write-file-action@master
         with:
-          path: ${{ env.home}}test.yml
+          path: test.yml
           contents: |
-            "title: 'Open Air Cyan Documentation'
+             title: 'Open Air Cyan Documentation'
              description: 'Documentation for OpenAir Cyan and related projects'
              author: 'ZanzyTHEbar'
              email: info@h-bat.com
@@ -122,6 +122,6 @@ jobs:
                recaptcha_site_key: 6LfKJsMfAAAAAFLjDTY0PG9RdcpLBuiuoFNyQLsh
                chunked_comment_loading: true
                lazy_load_comments: true
-               comment_replies_enabled: true"
+               comment_replies_enabled: true
           write-mode: overwrite
       - run: echo "✍ File written with status ${{ job.status }}."
