@@ -19,8 +19,11 @@ permalink: index.html
 1. TOC
 {:toc}
 
+Welcome to the documentation for the Cyan Decarbonizer, version 1.
+{: .fs-6 .fw-300 }
 
-Welcome to the documentation for the Cyan Decarbonizer version 1, a DIY small-scale open hardware direct air carbon capture (DACC) system.{: .fs-6 .fw-300 }
+A DIY small-scale open hardware direct air carbon capture (DACC) system.
+{: .fs-6 .fw-300 }
 
 | ![Build Status](./assets/images/assemblyinst/cyan_side_view.png) |
 |:--:|
