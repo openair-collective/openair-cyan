@@ -41,12 +41,12 @@ exclude:
     vendor/ruby/,
   ]
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-mermaid
-  - jekyll-spaceship
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
+#  - jekyll-sitemap
+#  - jekyll-mermaid
+#  - jekyll-spaceship
 
 include: ['_pages']
 timezone: 'America/New_York'
