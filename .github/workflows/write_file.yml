@@ -136,6 +136,7 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: echo "✍ Writing to file."
   deploy:
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Git checkout
