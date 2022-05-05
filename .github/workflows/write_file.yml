@@ -139,7 +139,7 @@ jobs:
           git config user.email "<>"
           git status
           git tag
-          git add test.yml
+          git add docs/test.yml
           git commit -m "file updated"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD
           env:
