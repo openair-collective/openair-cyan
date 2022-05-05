@@ -3,6 +3,7 @@ layout: default
 title: Aqueous Cyan (Beta)
 nav_order: 2
 has_children: false
+permalink: /aqueous_cyan/
 ---
 
 # Aqueous Cyan (Beta)
