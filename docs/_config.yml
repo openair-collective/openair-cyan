@@ -2,7 +2,7 @@ title: 'Open Air Cyan Documentation'
 description: 'Documentation for OpenAir Cyan and related projects'
 author: 'ZanzyTHEbar'
 email: info@h-bat.com
-url: "https://openair-collective.github.io/openair-cyan/"
+url: "https://openair-collective.github.io/"
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs

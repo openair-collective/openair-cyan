@@ -101,5 +101,5 @@ All software is under the GNU General Public License v3.0 (GPL-3.0).
 All documentation, including the Wiki, is under the Creative Commons CC-BY-SA-4.0 license***.
 
 <div align="center">
-<img src="./assets/images/licenses/licenses.svg" width="300" alt="Open Licenses" />
+    <img src="./assets/images/licenses/licenses.svg" width="300" alt="Open Licenses" />
 </div>
