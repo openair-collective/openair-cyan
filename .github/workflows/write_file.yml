@@ -125,3 +125,8 @@ jobs:
                comment_replies_enabled: true
           write-mode: overwrite
       - run: echo "✍ File written with status ${{ job.status }}."
+      - run: git add scores
+      - run: git commit -m "file updated"
+      - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
