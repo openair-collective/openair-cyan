@@ -125,8 +125,21 @@ jobs:
                comment_replies_enabled: true
           write-mode: overwrite
       - run: echo "✍ File written with status ${{ job.status }}."
-      - run: git add test.yml
-      - run: git commit -m "file updated"
-      - run: "git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Git checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: '0'
+      - name: git
+        run: |
+          # setup the username and email, use 'GitHub Actions Bot' with no email by default
+          git --version
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          git status
+          git tag
+          git describe
+          git add test.yml
+          git commit -m "file updated"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
