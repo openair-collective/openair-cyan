@@ -137,7 +137,6 @@ jobs:
           git config user.email "<>"
           git status
           git tag
-          git describe
           git add test.yml
           git commit -m "file updated"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD
