@@ -26,7 +26,7 @@ jobs:
       - run: echo "✍ Writing to file."
       - uses: DamianReeves/write-file-action@master
         with:
-          path: {{ github.workspace }}/test.yml
+          path: ${{ github.workspace }}/test.yml
           contents: |
              title: 'Open Air Cyan Documentation'
              description: 'Documentation for OpenAir Cyan and related projects'
