@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HELP! Ideas Needed
-nav_order: 4
+nav_exclude: true
 has_children: true
 ---
 
