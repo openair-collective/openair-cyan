@@ -18,4 +18,4 @@ We welcome any comments or help from people from other fields, particularly chem
 
 <iframe width="100%" height="700" src="/openair-cyan/Reference_Docs/Aqueous-Cyan/Welcome%20to%20Aqueous%20Cyan--Can%20you%20help.pdf">If you are seeing this text, the preview of the CV failed. Most likely this happened because your browser does not support this technical feature. In this case, please download the CV using the link above.</iframe>
 
-If you do not see the embedded pdf, you can try viewing the pdf here [here](/openair-cyan/Reference_Docs/Aqueous-Cyan/Welcome%20to%20Aqueous%20Cyan--Can%20you%20help.pdf). Alternatively, you can download the pdf using the link above.
+If you do not see the embedded pdf, you can try viewing the pdf [here](/openair-cyan/Reference_Docs/Aqueous-Cyan/Welcome%20to%20Aqueous%20Cyan--Can%20you%20help.pdf). Alternatively, you can download the pdf using the link above.
