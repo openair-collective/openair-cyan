@@ -26,6 +26,7 @@ group :jekyll_plugins do
   gem "jekyll-mermaid"
   # Jekyll Remote Theme plugin
   gem "jekyll-remote-theme"
+  
   gem "kramdown-parser-gfm"
 end
 

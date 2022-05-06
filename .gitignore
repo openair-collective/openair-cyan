@@ -2,7 +2,6 @@
 _site
 .bundle
 /vendor
-zzzz-search-data.json
 .sass-cache
 .jekyll-metadata
 gemfile.lock
