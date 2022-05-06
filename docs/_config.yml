@@ -8,7 +8,7 @@ url: 'https://openair-collective.github.io'
 remote-theme: just-the-docs/just-the-docs
 color_scheme: 'light'
 search_enabled: true
-logo: './assets/images/openair-logo.png'
+logo: '/assets/images/openair-logo.png'
 heading_level: 6
 previews: 3
 
@@ -16,7 +16,7 @@ baseurl: '/openair-cyan/'
 
 sitemap: true
 
-favicon: "./assets/images/favicon.png" # the favicon for your site
+favicon: "/assets/images/favicon.png" # the favicon for your site
 
 permalink: pretty
 exclude:
