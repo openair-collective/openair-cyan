@@ -45,7 +45,7 @@ plugins:
   - jekyll-mermaid
   - jekyll-spaceship
 
-include: ['_pages']
+include: ['_pages', '_posts', '_sass', '_layouts', '_includes']
 timezone: 'America/New_York'
 
 # Search options
