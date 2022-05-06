@@ -35,14 +35,17 @@ $$ -->
 <!-- Example using \boldsymbol - as not all LaTeX syntax is supported in MathJax -->
 <!-- $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$ -->
 
-The carbonation reaction once again is `Ca(OH)2` + CO2 -> CaCO3 + H2O. Since both sides of the equation must have the same mass (mass balance), the following must also be true:
+<!-- Example of raw rendering using liquid tags
+{% raw %}
+{% endraw %} 
+-->
+
+The carbonation reaction once again is $ Ca(OH)^2 + CO^2 -> CaCO^3 + H^2O $. Since both sides of the equation must have the same mass (mass balance), the following must also be true:
 
 change in mass =
 
 $ x * (CaCO^3 M_r - Ca(OH)^2 M_r) = x * (100.0869 g/mol - 74.09268 g/mol) = x * 25.9942 $
 
-{% raw %}
-{% endraw %}
 where x = moles of CaCO3 produced.
 It also follows that the grams of CO2 captured is x * (mol wt CO2), which equals x * 44.0095 g/mol.
 Thus the change in mass that is measured must be scaled by a factor of (44.0095/25.9942) = 1.693 to obtain the actual amount of CO2 taken up.
