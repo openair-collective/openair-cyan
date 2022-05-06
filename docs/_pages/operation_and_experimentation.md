@@ -14,9 +14,8 @@ Measure out a desired quantity of `Ca(OH)2` for your test and add it to a coffee
 
 The coffee filter, plus product, should be thoroughly dried before weighing. Subtract the weight of the coffee filter and also the weight of the `Ca(OH)2` that you added. That will give the amount of mass change that has taken place. This change in mass is equal to the grams of `CO2` sequestered minus the grams of water that have evaporated.
 
-Display equation:
-
-$$
+<!-- Example of Kramdown Equation Syntax -->
+<!-- $$
 \begin{aligned}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
   = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
@@ -31,10 +30,19 @@ $$
       y_n
     \end{array} \right)
 \end{aligned}
-$$
+$$ -->
+
+<!-- Example using \boldsymbol - as not all LaTeX syntax is supported in MathJax -->
+<!-- $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$ -->
 
 The carbonation reaction once again is `Ca(OH)2` + CO2 -> CaCO3 + H2O. Since both sides of the equation must have the same mass (mass balance), the following must also be true:
-change in mass = x * (mol wt CaCO3 - mol wt `Ca(OH)2`) = x * (100.0869 g/mol - 74.09268 g/mol) = x * 25.9942
+
+change in mass =
+
+$ x * (CaCO^3 M_r - Ca(OH)^2 M_r) = x * (100.0869 g/mol - 74.09268 g/mol) = x * 25.9942 $
+
+{% raw %}
+{% endraw %}
 where x = moles of CaCO3 produced.
 It also follows that the grams of CO2 captured is x * (mol wt CO2), which equals x * 44.0095 g/mol.
 Thus the change in mass that is measured must be scaled by a factor of (44.0095/25.9942) = 1.693 to obtain the actual amount of CO2 taken up.
