@@ -12,6 +12,8 @@ logo: './assets/images/openair-logo.png'
 heading_level: 6
 previews: 3
 
+baseurl: '/openair-cyan/'
+
 sitemap: true
 
 favicon: "./assets/images/favicon.png" # the favicon for your site
