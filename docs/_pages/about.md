@@ -9,8 +9,10 @@ nav_order: 6
 
 ## People
 
+<p style="page-break-after:always;"></p>
+
 Cyan constructors
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
 This is not an exhaustive list; it is just an example of where Cyans have been built.
 {: .fs-4 .fw-300 }
@@ -22,17 +24,11 @@ This is not an exhaustive list; it is just an example of where Cyans have been b
 
 ## Individuals
 
-{{% include individuals.html %}}
-
-- Dahl Winters - Initiator/ Moderator
-- David Wilson
-- Courtni Holness
-- Ross Kenyon
-- Aline Uwase
+{% include individuals.html %}
 
 ## Philosophy
 
-The [Resources](resources.md) section of this website includes some of our teams own notes (not all of them are polished) that we disclose for other people to use.
+The [Resources](/openair-cyan/resources) section of this website includes some of our teams own notes (not all of them are polished) that we disclose for other people to use.
 There, we hope you may find something useful to you.
 
 We advocate the [Open Source model](https://en.wikipedia.org/wiki/Open-source_model).
