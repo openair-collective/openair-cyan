@@ -25,10 +25,10 @@ inputs:
     required: false
   jekyll_src:
     description: 'The Jekyll website source directory'
-    required: false
+    required: true
   jekyll_cfg:
     description: 'The Jekyll website config files'
-    required: false
+    required: true
   jekyll_baseurl:
     description: 'The Jekyll website baseurl'
     required: false

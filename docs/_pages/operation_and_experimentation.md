@@ -46,16 +46,18 @@ change in mass =
 
 $ x * (CaCO^3 M_r - Ca(OH)^2 M_r) = x * (100.0869 g/mol - 74.09268 g/mol) = x * 25.9942 $
 
-where x = moles of CaCO3 produced.
-It also follows that the grams of CO2 captured is x * (mol wt CO2), which equals x * 44.0095 g/mol.
+where x = moles of $ CaCO^3 $  produced.
+It also follows that the grams of CO2 captured is $ x * (mol wt CO2), which equals x * 44.0095 g/mol $.
 Thus the change in mass that is measured must be scaled by a factor of (44.0095/25.9942) = 1.693 to obtain the actual amount of CO2 taken up.
-Example: You have added 10.00 g `Ca(OH)2` to a coffee filter weighing 0.86 g. The total initial weight is 10.86 g.
+Example: You have added `10.00g` `$ Ca(OH)^2 $` to a coffee filter weighing 0.86 g. The total initial weight is 10.86 g.
 After your run, you measure a weight of coffee filter + product of 12.11 g.
-You subtract the weight of the coffee filter to get the weight of the product, which is 12.11 g - 0.86 g = 11.25 g.
+
+You subtract the weight of the coffee filter to get the weight of the product, which is $ 12.11g - 0.86g = 11.25g $ .
 The mass change from final to initial time points is thus 11.25 g - 10.00 g = 1.25 g.
 You must then increase the mass change by a factor of 1.693 to get the weight of CO2 taken up. This is 1.25 g * 1.693 = 2.12 g.
-The above was taken from the best experimental run so far. For approximately every 5x `Ca(OH)2` inputted, 1x CO2 is taken up. Making a thin layer of `Ca(OH)2` really seems to help.
-Confirming the Presence of CO2
+The above was taken from the best experimental run so far. For approximately every `5x` `$ Ca(OH)^2 $` inputted, 1x CO2 is taken up. Making a thin layer of `Ca(OH)2` really seems to help.
+Confirming the Presence of `$ CO^2 $`
+
 You can confirm the presence of CaCO3 by doing a 5% distilled white vinegar test. A positive test is the visible emission of bubbles (CO2) upon applying the vinegar to the product. Make sure you do the test after you have made sure your sample is completely dry and you have already quantified your CO2 uptake, as you will release some of your captured CO2 during this test.
 Storage
 The unit is fine to sit closed for long periods of time. If you leave the water inside, the water will very slowly evaporate. For longer-term storage, empty the water, dry, and store the equipment together. As for storage of the product, partially-reacted `Ca(OH)2` stored in thin layers will fully react over time, and it would be educational to check the weight increase over time.
