@@ -10,7 +10,7 @@ permalink: /aqueous_cyan/
 
 The Aqueous Cyan is an experimental alternative version of the original Cyan.
 
-![image](/assets/images/aqueous_cyan_beta.png)
+![image](/openair-cyan/assets/images/aqueous_cyan_beta.png)
 
 The Aqueous Cyan is a variation on the original Cyan that we have been experimenting with. As with all Cyan designs, the goal is to come up with a distributed direct-air carbon dioxide capture device that is efficient, cheap, and easy for non-technical people to build and operate.
 
