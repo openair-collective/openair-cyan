@@ -6,7 +6,7 @@ has_children: false
 permalink: index.html
 ---
 
-[![GitHub issues](https://img.shields.io/github/issues/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/issues) [![GitHub forks](https://img.shields.io/github/forks/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/network) [![GitHub stars](https://img.shields.io/github/stars/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/issues) [![GitHub forks](https://img.shields.io/github/forks/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/network) [![GitHub stars](https://img.shields.io/github/stars/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/stargazers) [![Build and Deploy to Github Pages](https://github.com/openair-collective/openair-cyan/actions/workflows/build-jekyll.yml/badge.svg?branch=docs)](https://github.com/openair-collective/openair-cyan/actions/workflows/build-jekyll.yml) [![pages-build-deployment](https://github.com/openair-collective/openair-cyan/actions/workflows/pages/pages-build-deployment/badge.svg?branch=docs)](https://github.com/openair-collective/openair-cyan/actions/workflows/pages/pages-build-deployment)
 
 ---
 
