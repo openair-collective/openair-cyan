@@ -12,14 +12,15 @@
 name: "CodeQL"
 
 on:
-  push:
-    branches: [ main, docs, gh-pages ]
-  pull_request:
-    # The branches below must be a subset of the branches above
-    branches: [ main, docs, gh-pages ]
-  schedule:
-    - cron: '35 1 * * 0'
-
+#  push:
+#    branches: [ main, docs, gh-pages ]
+#  pull_request:
+#    # The branches below must be a subset of the branches above
+#    branches: [ main, docs, gh-pages ]
+# schedule:
+#    - cron: '35 1 * * 0'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 jobs:
   analyze:
     name: Analyze
