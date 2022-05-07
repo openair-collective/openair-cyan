@@ -55,6 +55,19 @@ plugins:
 include: ['_pages', '_posts', '_sass', '_layouts', '_includes', assets]
 timezone: 'America/New_York'
 
+collections_dir: all_collections
+
+collections:
+    _posts:
+        output: true
+    _construction:
+        output: true
+    _staff_members:
+        output: true
+    permalink: /:collection/:name
+
+excerpt_separator: <!--more-->
+
 # Search options
 preview_words_before: 5
 preview_words_after: 10

@@ -7,7 +7,7 @@ nav_order: 5
 
 # Operation and Experimentation
 
-Measure out a desired quantity of $ Ca(OH)^2\boldsymbol $ for your test and add it to a coffee filter that has already been weighed without $ Ca(OH)^2\boldsymbol $ added to it. Place the coffee filter onto the `HDX` lid that is within the humidifier box. Close the lid and run the air pump for your desired amount of time. The powder will start to clump up and form cracks as humidification takes place.
+Measure out a desired quantity of $Ca(OH)^2\boldsymbol$ for your test and add it to a coffee filter that has already been weighed without $ Ca(OH)^2\boldsymbol $ added to it. Place the coffee filter onto the `HDX` lid that is within the humidifier box. Close the lid and run the air pump for your desired amount of time. The powder will start to clump up and form cracks as humidification takes place.
 ​
 ​
 ## Calculating CO2 Uptake
@@ -33,7 +33,7 @@ The coffee filter, plus product, should be thoroughly dried before weighing. Sub
 $$ -->
 
 <!-- Example using \boldsymbol - as not all LaTeX syntax is supported in MathJax -->
-<!-- $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$ -->
+<!-- $ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $ -->
 
 <!-- Example of raw rendering using liquid tags
 {% raw %}
@@ -44,15 +44,15 @@ The carbonation reaction once again is $Ca(OH)^2+CO^2->CaCO^3+H^2O$. Since both 
 
 change in mass =
 
-$x*(CaCO^3 M_r-Ca(OH)^2M_r)=x*(100.0869g/mol-74.09268g/mol)=x*25.9942$
+$ x*(CaCO^3M_r - Ca(OH)^2M_r) = x*(100.0869g/mol - 74.09268g/mol) = x*25.9942 $
 
 where $x=molesCaCO^3$ produced.
 
-It also follows that the grams of $CO^2\boldsymbol$ captured is $x*CO^2M_r=x*44.0095g/mol$.
+It also follows that the grams of $\boldsymbol{CO^2}$ captured is $x*CO^2M_r=x*44.0095g/mol$.
 
 Thus the change in mass that is measured must be scaled by a factor of $44.0095/25.9942=1.693$ to obtain the actual amount of $CO^2$ taken up.
 
-**Example:** You have added `10.00g` $Ca(OH)^2\boldsymbol$ to a coffee filter weighing `0.86g`. The total initial weight is `10.86g`.
+**Example:** You have added `10.00g` $\boldsymbol{Ca(OH)^2}$ to a coffee filter weighing `0.86g`. The total initial weight is `10.86g`.
 
 After your run, you measure the weight of the coffee filter + product of `12.11g`.
 
