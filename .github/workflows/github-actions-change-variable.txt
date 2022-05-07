@@ -1,5 +1,10 @@
 # .github/workflows/github-actions-change-variable.yml
-on: [push]
+on: 
+  push:
+    branches: [docs]
+    
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 name: Variable Substitution
 
 jobs:
