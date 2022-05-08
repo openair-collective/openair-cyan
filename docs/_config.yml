@@ -60,13 +60,10 @@ collections_dir: all_collections
 collections:
     _posts:
         output: true
-        permalink: /:collection/:name
     _construction:
         output: true
-        permalink: /:collection/:name
     _staff_members:
         output: true
-        permalink: /:collection/:name
 
 excerpt_separator: <!--more-->
 
