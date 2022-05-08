@@ -13,7 +13,7 @@ The privacy of my visitors is extremely important. This Privacy Policy outlines 
 
 The persons responsible for data processing on this website are:
 
-<p>RedHawk989 & ZanzyTHEbar<br />
+<p>OpenAir-Collective<br />
 
 The responsible body(s) decides alone or jointly with others on the purposes and means of processing personal data (e.g. names, contact details, etc.).
 
