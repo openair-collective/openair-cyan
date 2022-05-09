@@ -34,7 +34,7 @@ Teams
 
 ## Philosophy
 
-The [Resources](/openair-cyan/resources) section of this website includes some of our teams own notes (not all of them are polished) that we disclose for other people to use.
+The [Technical Details](/openair-cyan/operation) section of this website includes some of our teams own notes (not all of them are polished) that we disclose for other people to use.
 There, we hope you may find something useful to you.
 
 We advocate the [Open Source model](https://en.wikipedia.org/wiki/Open-source_model).
