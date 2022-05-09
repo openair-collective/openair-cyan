@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /about/
-nav_order: 6
+nav_order: 5
 ---
 
 # About Us
@@ -19,8 +19,8 @@ This is not an exhaustive list; it is just an example of where Cyans have been b
 
 ## Teams
 
-- University of Michigan's Global CO2 Initiative Student Association (GCISA)
-- University of Waterloo
+- [University of Michigan's Global CO2 Initiative Student Association (GCISA)](https://maizepages.umich.edu/organization/gcisa)
+- [University of Waterloo](https://uwaterloo.ca/)
 
 ## Individuals
 

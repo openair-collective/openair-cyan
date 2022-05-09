@@ -16,7 +16,7 @@ permalink: index.html
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+* TOC
 {:toc}
 
 Welcome to the documentation for the Cyan Decarbonizer, version 1.

@@ -10,7 +10,7 @@ nav_order: 5
 Measure out a desired quantity of $ \boldsymbol{Ca(OH)_2} $ for your test and add it to a coffee filter that has already been weighed without $ \boldsymbol{Ca(OH)_2} $ added to it. Place the coffee filter onto the `HDX` lid that is within the humidifier box. Close the lid and run the air pump for your desired amount of time. The powder will start to clump up and form cracks as humidification takes place.
 ​
 ​
-## Calculating CO2 Uptake
+## Calculating $CO_2$ Uptake
 
 The coffee filter, plus product, should be thoroughly dried before weighing. Subtract the weight of the coffee filter and also the weight of the $ \boldsymbol{Ca(OH)_2} $ that you added. That will give the amount of mass change that has taken place. This change in mass is equal to the grams of $ \boldsymbol{CO_2} $ sequestered minus the grams of water that have evaporated.
 
