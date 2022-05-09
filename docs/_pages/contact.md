@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contact Us
+parent: Comments and Suggestions
 permalink: /contact/
 nav_order: 2
-parent: Comments and Suggestions
 ---
 
 # Contact Us
