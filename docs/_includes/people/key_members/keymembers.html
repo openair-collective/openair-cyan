@@ -1,3 +1,15 @@
-<!-- Use this HTML file to create a list of Key Members -->
-- Dahl Winters  [![Github](https://img.shields.io/badge/Contact%20Me-%23202025?style=plastic&logo=Github)](https://github.com/dahlwinters){:target="_blank"} - Initiator / Moderator
-- David Wilson  [![LinkedIn](https://img.shields.io/badge/Contact%20Me-%230A66C2?logo=LinkedIn&logoColor=%23whiteC2&style=plastic)](https://www.linkedin.com/in/davidwilson/){:target="_blank"} - Electronics Engineer
+<!-- Use this HTML file to create a list of Key key_Members -->
+
+<!-- <ul>
+    {% for member in site.data.people.key_members %}
+    <li>
+        <a href="https://github.com/{{ key_member.github }}" target="_blank">
+            - {{ member.name }}<img src="https://img.shields.io/badge/Contact%20Me-%23202025?style=plastic&logo=Github" alt="Github Contact Me"/>
+        </a>
+    </li>
+    {% endfor %}
+</ul> -->
+
+{% for member in site.data.key_key_members %}
+- {{ member.name }} [![Github](https://img.shields.io/badge/Contact%20Me-%23202025?style=plastic&logo=Github)](https://github.com/{{ member.github }}){:target="_blank"} [![LinkedIn](https://img.shields.io/badge/Contact%20Me-%230A66C2?logo=LinkedIn&logoColor=%23whiteC2&style=plastic)](https://www.linkedin.com/in/{{ member.linkedin }}/){:target="_blank"}
+{% endfor %}

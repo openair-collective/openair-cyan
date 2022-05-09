@@ -1,0 +1,20 @@
+# Use this HTML file to create a list of Key Members
+name: "OpenAir Collective"
+members:
+  - name: Dahl Winters
+    github: dahlwinters
+    linkedin: dahlwinters
+    twitter:
+    description: "- Initiator / Moderator"
+
+  - name: David Wilson
+    github: DavidWilsonEE
+    linkedin: davidwilson
+    twitter:
+     description: "- Electronics Engineer"
+
+  - name: Christopher Neidl
+    github: neidl-c
+    linkedin: christopher-neidl-a561535
+    twitter: "@neidl_c"
+    description: "- "
