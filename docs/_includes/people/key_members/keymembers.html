@@ -10,6 +10,6 @@
     {% endfor %}
 </ul> -->
 
-{% for member in site.data.key_key_members %}
+{% for member in site.data.people.key_members %}
 - {{ member.name }} [![Github](https://img.shields.io/badge/Contact%20Me-%23202025?style=plastic&logo=Github)](https://github.com/{{ member.github }}){:target="_blank"} [![LinkedIn](https://img.shields.io/badge/Contact%20Me-%230A66C2?logo=LinkedIn&logoColor=%23whiteC2&style=plastic)](https://www.linkedin.com/in/{{ member.linkedin }}/){:target="_blank"}
 {% endfor %}
