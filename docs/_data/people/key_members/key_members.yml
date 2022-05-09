@@ -4,16 +4,16 @@
   github: dahlwinters
   linkedin: dahlwinters
   twitter:
-  description: '- Initiator / Moderator'
+  description: 'Initiator / Moderator'
 
 - name: David Wilson
   github: DavidWilsonEE
   linkedin: davidwilson
   twitter:
-    description: '- Electronics Engineer'
+    description: 'Electronics Engineer'
 
 - name: Christopher Neidl
   github: neidl-c
   linkedin: christopher-neidl-a561535
-  twitter: '@neidl_c'
-  description: '- Organizer / Lead Manager' #! FIXME: Ask Chris about this
+  twitter: 'neidl_c'
+  description: 'Organizer / Lead Manager' #! FIXME: Ask Chris about this
