@@ -7,24 +7,31 @@ nav_order: 5
 
 # About Us
 
-## People
+## Key Members
+
+Meet the Team!
+{: .fs-4 .fw-300 }
+
+{% include people/key_members/keymembers.html %}
 
 <p style="page-break-after:always;"></p>
 
 Cyan constructors
-{: .fs-5 .fw-300 }
+{: .fs-6 .fw-300 }
 
 This is not an exhaustive list; it is just an example of where Cyans have been built.
 {: .fs-4 .fw-300 }
 
-## Teams
+Individuals
+{: .fs-5 .fw-300 }
+
+{% include people/constructors/individuals.html %}
+
+Teams
+{: .fs-5 .fw-300 }
 
 - [University of Michigan's Global CO2 Initiative Student Association (GCISA)](https://maizepages.umich.edu/organization/gcisa)
 - [University of Waterloo](https://uwaterloo.ca/)
-
-## Individuals
-
-{% include individuals.html %}
 
 ## Philosophy
 
