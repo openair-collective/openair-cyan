@@ -61,6 +61,7 @@ collections:
     _posts:
         output: true
     _construction:
+        box_and_fan: true
         output: true
     _staff_members:
         output: true
