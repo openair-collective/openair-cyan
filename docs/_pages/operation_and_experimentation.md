@@ -2,7 +2,7 @@
 layout: page
 title: Technical Details
 permalink: /operation/
-nav_order: 5
+nav_order: 2
 ---
 
 # Operation and Experimentation
