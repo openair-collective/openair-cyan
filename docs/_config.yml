@@ -65,9 +65,9 @@ github_username: 'openair-collective'
 
 twitter_username: 'openaircollect'
 
-collections:
-  authors:
-    output: true
+# collections:
+# authors:
+#    output: true
 
 # Search options
 search_enabled: true
