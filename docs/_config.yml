@@ -64,6 +64,26 @@ twitter_username: 'openaircollect'
 
 markdown: kramdown
 
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 # Search options
 preview_words_before: 5
 preview_words_after: 10

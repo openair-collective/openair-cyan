@@ -1,0 +1,43 @@
+# - Dahl Winters
+# - David Wilson
+# - Courtni Holness
+# - Ross Kenyon
+# - Aline Uwase
+
+---
+# Use this YAML file to create a list of Key Members
+
+# Leave all fields blank if you don't want to include a person in the list.
+# Key members should use the name only, no other fields are required.
+
+- name: Dahl Winters
+  github:
+  linkedin:
+  twitter:
+  description:
+
+- name: David Wilson
+  github:
+  linkedin:
+  twitter:
+  description:
+
+- name: Courtni Holness
+  github:
+  linkedin:
+  twitter:
+  description:
+
+- name: Ross Kenyon
+  github:
+  linkedin:
+  twitter:
+  description:
+
+- name: Aline Uwase
+  github:
+  linkedin:
+  twitter:
+  description:
+
+---
