@@ -52,7 +52,7 @@ plugins:
   - jekyll-spaceship
   - jekyll-remote-theme
 
-include: ['_pages', '_posts', '_data']
+include: ['_pages', '_posts']
 timezone: 'America/New_York'
 
 excerpt_separator: <!--more-->

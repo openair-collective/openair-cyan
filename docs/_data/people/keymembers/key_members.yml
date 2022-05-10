@@ -1,3 +1,4 @@
+---
 # Use this HTML file to create a list of Key Members
 
 - name: Dahl Winters
@@ -10,10 +11,13 @@
   github: DavidWilsonEE
   linkedin: davidwilson
   twitter:
-    description: 'Electronics Engineer'
+  description: 'Electronics Engineer'
 
 - name: Christopher Neidl
   github: neidl-c
   linkedin: christopher-neidl-a561535
   twitter: 'neidl_c'
   description: 'Organizer / Lead Manager' #! FIXME: Ask Chris about this
+
+---
+
