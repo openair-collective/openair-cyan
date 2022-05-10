@@ -7,7 +7,7 @@ url: 'https://openair-collective.github.io'
 # Build settings
 remote-theme: just-the-docs/just-the-docs
 color_scheme: 'light'
-search_enabled: true
+
 logo: '/assets/images/openair-logo.png'
 heading_level: 6
 previews: 3
@@ -59,35 +59,18 @@ include: ['_pages', '_posts']
 
 timezone: 'America/New_York'
 
-excerpt_separator: <!--more-->
+# excerpt_separator: <!--more-->
 
 github_username: 'openair-collective'
 
 twitter_username: 'openaircollect'
 
-markdown: kramdown
-
 collections:
   authors:
     output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-
 # Search options
+search_enabled: true
 preview_words_before: 5
 preview_words_after: 10
 tokenizer_separator: /[\s/]+/
