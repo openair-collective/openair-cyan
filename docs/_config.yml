@@ -52,7 +52,7 @@ plugins:
   - jekyll-spaceship
   - jekyll-remote-theme
 
-include: ['_pages', '_posts']
+include: ['_pages', '_posts', 'all_collections', '_data']
 timezone: 'America/New_York'
 
 collections_dir: all_collections
