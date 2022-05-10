@@ -16,7 +16,7 @@ baseurl: '/openair-cyan/'
 
 sitemap: true
 
-favicon: "/assets/images/favicon.png" # the favicon for your site
+favicon: "/assets/images/favicon/favicon.ico" # the favicon for your site
 
 permalink: pretty
 exclude:
@@ -53,9 +53,16 @@ plugins:
   - jekyll-remote-theme
 
 include: ['_pages', '_posts']
+
 timezone: 'America/New_York'
 
 excerpt_separator: <!--more-->
+
+github_username: 'openair-collective'
+
+twitter_username: 'openaircollect'
+
+markdown: kramdown
 
 # Search options
 preview_words_before: 5
