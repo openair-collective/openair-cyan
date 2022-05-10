@@ -1,5 +1,5 @@
 title: 'Open Air Cyan Documentation'
-description: 'Documentation for OpenAir Cyan and related projects'
+description: 'Documentation for OpenAir Cyan, a DIY small-scale open hardware direct air carbon capture device called Cyan.'
 author: 'ZanzyTHEbar'
 email: info@h-bat.com
 url: 'https://openair-collective.github.io'
@@ -11,6 +11,9 @@ search_enabled: true
 logo: '/assets/images/openair-logo.png'
 heading_level: 6
 previews: 3
+
+sass:
+  style: compressed
 
 baseurl: '/openair-cyan/'
 
