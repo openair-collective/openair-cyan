@@ -2,7 +2,8 @@
 layout: page
 title: "Construction: Box and Fan"
 permalink: /construction/box_and_fan/
-nav_order: 4
+parent: Technical Details
+nav_order: 1
 ---
 
 # Construction: Box and Fan (Optional for Experimentation Only)
