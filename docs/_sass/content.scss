@@ -82,6 +82,19 @@
     }
   }
 
+  .comments-form ul {
+    list-style: none;
+
+    > li {
+      &::before {
+        position: absolute;
+        margin-left: -1.4em;
+        color: $grey-dk-000;
+        content: '' !important;
+      }
+    }
+  }
+
   .task-list {
     padding-left: 0;
   }
