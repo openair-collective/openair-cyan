@@ -3,7 +3,8 @@ layout: page
 title: Technical Details
 permalink: /operation/
 has_children: true
-nav_order: 2
+has_toc: false
+nav_order: 1
 ---
 
 # Operation and Experimentation
