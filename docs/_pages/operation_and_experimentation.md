@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Technical Details
+title: Operation and Experimentation
 permalink: /operation/
-has_children: true
+parent: Technical Details
+has_children: false
 has_toc: false
-nav_order: 1
+nav_order: 4
 ---
 
 # Operation and Experimentation

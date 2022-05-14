@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Aqueous Cyan (Beta)
-nav_order: 4
 parent: Technical Details
 permalink: /aqueous_cyan/
+nav_order: 5
 ---
 
 # Aqueous Cyan (Beta)
