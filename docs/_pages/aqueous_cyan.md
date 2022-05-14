@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title: Aqueous Cyan (Beta)
-nav_order: 1
-has_children: false
+nav_order: 4
+parent: Technical Details
 permalink: /aqueous_cyan/
 ---
 
@@ -16,6 +16,6 @@ The Aqueous Cyan is a variation on the original Cyan that we have been experimen
 
 We welcome any comments or help from people from other fields, particularly chemistry, chemical engineering, and mechanical engineering. Some ideas are in the file below.
 
-<iframe width="100%" height="700" src="/openair-cyan/Reference_Docs/Aqueous-Cyan/Welcome%20to%20Aqueous%20Cyan--Can%20you%20help.pdf">If you are seeing this text, the preview of the CV failed. Most likely this happened because your browser does not support this technical feature. In this case, please download using the link above.</iframe>
+<iframe width="100%" height="700" src="/openair-cyan/Reference_Docs/Aqueous-Cyan/Welcome%20to%20Aqueous%20Cyan--Can%20you%20help.pdf">If you are seeing this text, the preview of the pdf failed. Most likely this happened because your browser does not support this technical feature. In this case, please download using the link below.</iframe>
 
 If you do not see the embedded pdf, you can try viewing the pdf [here](/openair-cyan/Reference_Docs/Aqueous-Cyan/Welcome%20to%20Aqueous%20Cyan--Can%20you%20help.pdf){:target="_blank"}. Alternatively, you can download the pdf using the link above.
