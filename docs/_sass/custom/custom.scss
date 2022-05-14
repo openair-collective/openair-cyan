@@ -1,13 +1,13 @@
 .side-bar {
-  background: #202025;
+  background: #00FFFF;
 }
 
 .nav-list-item a {
-  color: #fff;
+  color: #007575;
 }
 
 .nav-list .nav-list-item .nav-list-expander {
-  color: #fff;
+  color: #007575;
 }
 
 .nav-list .nav-list-item .nav-list-expander:hover,
@@ -36,7 +36,7 @@
 
 .site-header a,
 .site-button > .icon {
-  color: #fff;
+  color: #007575;
 }
 
 .side-bar a:hover {
@@ -159,7 +159,7 @@ blockquote p {
 }
 
 .nav-list-item.active {
-  color: #fff;
+  color: #007575;
 }
 
 .nav-list-item.active:has() {
@@ -168,7 +168,7 @@ blockquote p {
 .nav-list-item.active .nav-list-expander,
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link,
 .nav-list-item.active a {
-  color: #fff;
+  color: #007575;
   position: relative;
 }
 
