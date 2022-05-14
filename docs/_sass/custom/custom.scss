@@ -3,11 +3,11 @@
 }
 
 .nav-list-item a {
-  color: #007575;
+  color: #000;
 }
 
 .nav-list .nav-list-item .nav-list-expander {
-  color: #007575;
+  color: #000;
 }
 
 .nav-list .nav-list-item .nav-list-expander:hover,
@@ -36,7 +36,7 @@
 
 .site-header a,
 .site-button > .icon {
-  color: #007575;
+  color: #000;
 }
 
 .side-bar a:hover {
@@ -119,7 +119,7 @@ blockquote p {
   position: absolute;
   top: 12px;
   margin-left: 10px;
-  border-top: 5px solid #000;
+  border-top: 5px solid #007575;
   border-bottom: none;
 }
 
@@ -132,7 +132,7 @@ blockquote p {
   position: absolute;
   top: 12px;
   margin-left: 10px;
-  border-bottom: 5px solid #000;
+  border-bottom: 5px solid #007575;
   border-top: none;
 }
 
@@ -159,7 +159,7 @@ blockquote p {
 }
 
 .nav-list-item.active {
-  color: #007575;
+  color: #000;
 }
 
 .nav-list-item.active:has() {
@@ -168,7 +168,7 @@ blockquote p {
 .nav-list-item.active .nav-list-expander,
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link,
 .nav-list-item.active a {
-  color: #007575;
+  color: #000;
   position: relative;
 }
 
@@ -180,10 +180,10 @@ blockquote p {
   height: 100%;
   width: 20px;
   top: 0;
-  border-left: 1px solid #505050;
+  border-left: 1px solid #00D1D1;
   padding: 10px 0;
   box-sizing: border-box;
-  border-bottom: 1px solid #2a2a2a;
+  border-bottom: 1px solid #00D1D1;
 }
 
 .nav-list .nav-list-item .nav-list-expander {
