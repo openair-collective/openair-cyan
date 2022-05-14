@@ -18,19 +18,27 @@ nav_order: 1
 ​
 You will also need a ***high purity*** source of *calcium* or *magnesium hydroxide*. Calcium hydroxide can be purchased as `pickling lime` or as `kalkwasser` for saltwater aquariums.
 
-===​
+____
 
 ## Tools Needed
 
-Scissors (useful for cutting air tubing)
-If you do not already have a scale for weighing, you will need one that has a precision to the nearest 0.1 g or less (0.01 g is preferable).
+- Scissors (useful for cutting air tubing)
+- If you do not already have a scale for weighing, you will need one that has a precision to the nearest `0.1g` or less (`0.01g` is preferable).
+
 Tools for the optional Box and Fan setup
-Drill with 8/32” drill bit (for fan mounting holes)
-Box cutter (for scoring and cutting the fan ventilation holes)
-Sharpie or other permanent marker (optional but very useful)
-Small reciprocating saw (optional - would be useful for cutting the round ventilation holes on the sides of the file box)
-Optional Materials for Testing
-5% distilled white vinegar (for testing for CaCO3)
-Spoon (for dispensing Ca(OH)2 without the need to pour it)
-Assembly Time Required
-Minimal unit assembly takes a few minutes, assuming you’ve already eaten the hummus from the hummus container. The file box + fan assembly can be done in 2 hours following the provided instructions.
+
+- Drill with `8/32”` drill bit (for fan mounting holes)
+- Box cutter (for scoring and cutting the fan ventilation holes)
+- Sharpie or other permanent marker (optional but very useful)
+- Small reciprocating saw (optional - would be useful for cutting the round ventilation holes on the sides of the file box)
+
+____
+
+## Optional Materials for Testing
+
+- 5% distilled white vinegar (for testing for $CaCO_3$)
+- Spoon (for dispensing $Ca(OH)_2$ without the need to pour it)
+
+## Assembly Time Required
+
+Minimal unit assembly takes a few minutes, assuming you’ve already eaten the hummus from the hummus container. The file box + fan assembly can be done in _`2 hours`_ following the provided instructions.
