@@ -55,11 +55,11 @@ The educational experience might be the biggest way that Cyan units will combat 
 
 The [Cyan Assembly Instructions](./Reference_Docs/assembly/Cyan_Assembly_Instructions.pdf){:target="_blank"} will get you started with an overview of how it works, a parts list, and instructions for putting it together. All this information can be found on this website.
 
-We now have a [Cyan Q&A](/cyan_q_and_a/) that goes over some common general and technical questions.
+We now have a [Cyan Q&A](./cyan_q_and_a/) that goes over some common general and technical questions.
 
-The [Supporting System Calculations](/supporting_measurements/) describe the logic that went into designing the system, from a LCA/TEA perspective.
+The [Supporting System Calculations](./supporting_measurements/) describe the logic that went into designing the system, from a LCA/TEA perspective.
 
-The [$CO_2$ Capture Measurements](/capture_measurements/) describe results obtained so far on how well this system can perform.
+The [$CO_2$ Capture Measurements](./capture_measurements/) describe results obtained so far on how well this system can perform.
 
 To report your `modifications`, `experimental results`, and `feedback` for making Cyan better, please visit the [Cyan DataShare](https://sites.google.com/view/cyan-datashare/){:target="_blank"} site.
 

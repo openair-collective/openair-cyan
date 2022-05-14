@@ -94,7 +94,7 @@ nav_order: 3
 
 **Q21. Has anyone tried to calculate the carbon footprint of the whole device (plastic, etc.)?**
 
-*A21. Not completely, but it has been partially attempted. The carbon footprint of the energy consumption and the transportation of input material has been taken into account in the [Cyan Supporting System Calculations.xlsx](/supporting_measurements) document available from our GitHub repository. In a separate document, estimates of the energy consumption used in producing $Mg(OH)_2$ have also been done, namely to determine the degree of impact of various manufacturing processes on Cyan’s ability to achieve negative emissions.*
+*A21. Not completely, but it has been partially attempted. The carbon footprint of the energy consumption and the transportation of input material has been taken into account in the [Cyan Supporting System Calculations.xlsx]({{ '/supporting_measurements' | relative_url }}) document available from our GitHub repository. In a separate document, estimates of the energy consumption used in producing $Mg(OH)_2$ have also been done, namely to determine the degree of impact of various manufacturing processes on Cyan’s ability to achieve negative emissions.*
 
 **Q22. Would it work to dissolve the X ($OH$) in solution, bubble the air through it, and let the X ($CO_3$) precipitate out?**
 
