@@ -3,7 +3,7 @@ layout: page
 title: "Construction: Humidifier Box"
 permalink: /construction/humidifier_box/
 parent: Technical Details
-nav_order: 1
+nav_order: 2
 ---
 
 # Construction: Humidifier Box
@@ -29,11 +29,11 @@ Place the `1 quart` container lid on top of the hummus container lid. It will fl
 When ready to do a run, you will add a coffee filter with the desired amount of $Ca(OH)_2$ onto the `1 quart` container lid, close the box lid, then plug in the air pump and let it run for your desired amount of time (below).
 
 <p align="center">
-    <image src="/openair-cyan/assets/images/assemblyinst/loading_reaction_chamber.png"></image> <image src="/openair-cyan/assets/images/assemblyinst/reaction_chamber_and_pump.png "></image>
+    <image src="/openair-cyan/assets/images/assemblyinst/loading_reaction_chamber.png"></image> <image src="/openair-cyan/assets/images/assemblyinst/reaction_chamber_and_pump.png"></image>
 </p>
 
 <p align="center">
-    <image src="/openair-cyan/assets/images/assemblyinst/wet_filter_and_material.png "></image>
+    <image src="/openair-cyan/assets/images/assemblyinst/wet_filter_and_material.png"></image>
 </p>
 
 If you wish to speed up the drying process after you remove the coffee filter (i.e. to weigh the product and find out how much $CO_2$ you obtained), please go on to the next section, which is the box and fan assembly.
