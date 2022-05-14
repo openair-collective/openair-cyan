@@ -8,7 +8,7 @@ permalink: index.html
 
 [![GitHub issues](https://img.shields.io/github/issues/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/issues) [![GitHub forks](https://img.shields.io/github/forks/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/network) [![GitHub stars](https://img.shields.io/github/stars/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/stargazers) [![Build and Deploy to Github Pages](https://github.com/openair-collective/openair-cyan/actions/workflows/build-jekyll.yml/badge.svg?branch=docs)](https://github.com/openair-collective/openair-cyan/actions/workflows/build-jekyll.yml) [![pages-build-deployment](https://github.com/openair-collective/openair-cyan/actions/workflows/pages/pages-build-deployment/badge.svg?branch=docs)](https://github.com/openair-collective/openair-cyan/actions/workflows/pages/pages-build-deployment)
 
----
+----
 
 # Summary
 {: .no_toc }
@@ -53,24 +53,24 @@ The educational experience might be the biggest way that Cyan units will combat 
 
 # The Documentation, Q&A, Wiki, and Project Updates
 
-The [Cyan Assembly Instructions](./Reference_Docs/assembly/Cyan_Assembly_Instructions.pdf) will get you started with an overview of how it works, a parts list, and instructions for putting it together. All this information is also found on our [Wiki](https://github.com/openair-collective/openair-cyan/wiki).
+The [Cyan Assembly Instructions](./Reference_Docs/assembly/Cyan_Assembly_Instructions.pdf){:target="_blank"} will get you started with an overview of how it works, a parts list, and instructions for putting it together. All this information can be found on this website.
 
-We now have a [Cyan Q&A](./Reference_Docs/extras/Cyan_Q_and_A.md) that goes over some common general and technical questions.
+We now have a [Cyan Q&A](/cyan_q_and_a/) that goes over some common general and technical questions.
 
-The [Supporting System Calculations](./Reference_Docs/data/Cyan%20-%20Supporting%20System%20Calculations.xlsx) describe the logic that went into designing the system, from a LCA/TEA perspective.
+The [Supporting System Calculations](/supporting_measurements/) describe the logic that went into designing the system, from a LCA/TEA perspective.
 
-The [$CO_2$ Capture Measurements](./Reference_Docs/data/Cyan%20-%20CO2%20Capture%20Measurements.xlsx) describe results obtained so far on how well this system can perform.
+The [$CO_2$ Capture Measurements](/capture_measurements/) describe results obtained so far on how well this system can perform.
 
-To report your `modifications`, `experimental results`, and `feedback` for making Cyan better, please visit the [Cyan DataShare](https://sites.google.com/view/cyan-datashare/) site.
+To report your `modifications`, `experimental results`, and `feedback` for making Cyan better, please visit the [Cyan DataShare](https://sites.google.com/view/cyan-datashare/){:target="_blank"} site.
 
-To see an overview of where we are with current progress, please view the [Projects board](https://github.com/openair-collective/openair-cyan/projects/1).
+To see an overview of where we are with current progress, please view the [Projects board](https://github.com/openair-collective/openair-cyan/projects/1){:target="_blank"}.
 
-Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are [available here](https://www.openairforum.org/t/cyan-project-progress/105/14).
+Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are [available here](https://www.openairforum.org/t/cyan-project-progress/105/14){:target="_blank"}.
 
 # Carbon Capture Details
 
 <div align="center">
-<img src="./assets/images/assemblyinst/Cyan_Process.jpg" width="600" alt="Diagram of Cyan's Carbon Removal Process" />
+    <img src="./assets/images/assemblyinst/Cyan_Process.jpg" width="600" alt="Diagram of Cyan's Carbon Removal Process" />
 </div>
 
 ## Inputs and Outputs
@@ -97,9 +97,9 @@ The fan uses `3 watts` but only needs to be run intermittently to refresh the ai
 
 # Licenses
 
-[![GitHub license](https://img.shields.io/github/license/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/blob/master/LICENSE){:target="_blank"}
 
-***All hardware materials and designs provided here are licensed under the [CERN-OHL-P](https://opensource.org/CERN-OHL-P) hardware license.
+***All hardware materials and designs provided here are licensed under the [CERN-OHL-P](https://opensource.org/CERN-OHL-P){:target="_blank"} hardware license.
 All software is under the GNU General Public License v3.0 (GPL-3.0).
 All documentation, including the Wiki, is under the Creative Commons CC-BY-SA-4.0 license***.
 
