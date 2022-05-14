@@ -18,7 +18,7 @@ Meet the Team!
 
 ## Cyan constructors
 
-This is not an exhaustive list; it is just an example of where Cyans have been built.
+This is not an exhaustive list; it is just an example of where Cyans have been built. If you feel that you should be on this list, please contact us.
 {: .fs-4 .fw-300 }
 
 Individuals
