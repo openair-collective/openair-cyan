@@ -15,7 +15,7 @@ Please join our discord for updates and any questions.
         <ul>
             <li>
                 <a href="https://discord.gg/kkXYbVykZX" target="_blank"
-                    title="Link to OpenAir Arduino Code" class="btn btn-discord fs-2 mb-1 mb-md-0 mr-0"><span class="iconify-inline" data-icon="akar-icons:discord-fill"></span><span class="sr-only"> Discord</span>
+                    title="Link to OpenAir Arduino Code" id="discord-button" class="btn btn-discord fs-2 mb-1 mb-md-0 mr-0"><span class="iconify-inline" data-icon="akar-icons:discord-fill"></span><span class="sr-only"> Discord</span>
                 </a>
             </li>
         </ul>

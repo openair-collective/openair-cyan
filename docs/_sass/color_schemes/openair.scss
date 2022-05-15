@@ -53,3 +53,11 @@ ul > li > a {
 #main-content a {
     color: $blue-000;
 }
+
+.sr-only {
+    color: $white;
+}
+
+#main-content svg > path {
+    fill: $white;
+}
