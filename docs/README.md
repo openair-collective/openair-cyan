@@ -83,7 +83,7 @@ The output material, `calcium carbonate` can be used in building materials (ceme
 
 ## Emissions Reduction
 
-At present, a Cyan will remove over the course of `24 hours` the *same amount of CO2* emitted by running a 9-watt LED bulb for 3 hours. That is `2 grams` of $CO_2$ for `10 grams` of input material - or a `0.2:1 ratio`.  
+At present, a Cyan will remove over the course of `24 hours` the *same amount of $CO_2$* emitted by running a 9-watt LED bulb for 3 hours. That is `2 grams` of $CO_2$ for `10grams` of input material - or a `0.2:1 ratio`.  
 
 *It is within theoretical possibility for this unit to remove the emissions of 20 9-watt LED bulbs for 3 hours (a whole house at night), that is 0.382 kg of $CO_2$ that would need to be captured. Adequate surface area needs to be provided within the unit to do this and we are presently working on that*.
 
