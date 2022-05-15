@@ -16,6 +16,10 @@
   - [Achieving Negative Emissions](#achieving-negative-emissions)
 - [Licenses](#licenses)
 
+# Website
+
+Please checkout our documentation [website](https://openair-collective.github.io/openair-cyan/) 😁
+
 # OpenAir-Cyan
 
 Welcome to the documentation for the **Cyan Decarbonizer v.1**, a *DIY small-scale open hardware direct air carbon capture* (DACC) system. To view our current development projects and how you can help, click [Projects](https://github.com/openair-collective/openair-cyan/projects) here or above.
