@@ -74,10 +74,10 @@ button: true
 
 # Links at the top of the page
 aux_links:
-  'Github':
-    - '//github.com/openair-collective/openair-cyan/'
-  'Arduino Code':
-    - '//github.com/openair-collective/openair-cyan/tree/dev/Code'
+  # 'Github':
+  #  - '//github.com/openair-collective/openair-cyan/'
+  # 'Arduino Code':
+  #  - '//github.com/openair-collective/openair-cyan/tree/dev/Code'
 
 # Sitemap options
 aux_links_new_tab: false

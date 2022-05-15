@@ -1,5 +1,35 @@
 .side-bar {
-  background: #00FFFF;
+  background: #00ffff;
+}
+
+.header-container {
+  border-radius: 0;
+  display: inline-block;
+  margin: 0px;
+  width: 270px;
+}
+
+.header-buttons ul li {
+  display: inline-block;
+  /* vertical-align: center; */
+  width: 90%;
+}
+
+.header-buttons ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  > li {
+    height: fit-content;
+    width: fit-content;
+    &::before {
+      position: absolute;
+      margin-left: -1.4em;
+      color: $grey-dk-000;
+      content: '' !important;
+    }
+  }
 }
 
 .nav-list-item a {
@@ -61,7 +91,7 @@ h4 {
   text-transform: none;
 }
 
-hr{
+hr {
   border-top: 1px solid rgb(220, 220, 220);
 }
 
@@ -180,10 +210,10 @@ blockquote p {
   height: 100%;
   width: 20px;
   top: 0;
-  border-left: 1px solid #00D1D1;
+  border-left: 1px solid #00d1d1;
   padding: 10px 0;
   box-sizing: border-box;
-  border-bottom: 1px solid #00D1D1;
+  border-bottom: 1px solid #00d1d1;
 }
 
 .nav-list .nav-list-item .nav-list-expander {

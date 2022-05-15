@@ -1,7 +1,28 @@
-<ul>
-    <a href="javascript:toggleDetect()" title="Switching Schemes" class="btn btn-mode fs-2 mb-1 mb-md-0 mr-0"
-        id="switch-mode">Dark Mode</a>
-</ul>
+<div class="header-container">
+    <div class="header-buttons">
+        <ul>
+            <li>
+                <a href="javascript:toggleDetect()" title="Switch Color Schemes"
+                    class="btn btn-mode fs-2 mb-1 mb-md-0 mr-0" id="switch-mode">Dark Mode</a>
+            </li>
+            <li>
+                <a href="https://github.com/openair-collective/openair-cyan" target="_blank" title="Link to Github"
+                    class="btn btn-github fs-2 mb-1 mb-md-0 mr-0">
+                    <span class="iconify-inline" data-icon="logos:github-icon"></span> <span class="sr-only">
+                        Github</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/openair-collective/openair-cyan/tree/dev/Code" target="_blank"
+                    title="Link to OpenAir Arduino Code" class="btn btn-arduino fs-2 mb-1 mb-md-0 mr-0">
+                    <span class="iconify-inline" data-icon="vscode-icons:file-type-arduino"></span> <span
+                        class="sr-only">
+                        Code</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
 <script type="text/javascript">
     const switch_scheme = document.getElementById("switch-mode");
     var isClicked = false;
