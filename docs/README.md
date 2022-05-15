@@ -36,13 +36,13 @@ This portable system operates at a small enough scale to empower individuals to 
 You can take a 5-minute tour of a Cyan system and learn more about the details of the project here:
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=yOzDFJZBM_w&t=2s"><img src="./assets/images/assemblyinst/cyan_blk_bg.png" width="400" alt="Cyan version 1" /></a>
+    <a href="https://www.youtube.com/watch?v=yOzDFJZBM_w&t=2s"><img src="./assets/images/assemblyinst/cyan_blk_bg.png" width="400" alt="Cyan version 1" /></a>
 </div>
 
 If you have twenty-something minutes, details about the device design, current challenges, opportunities and big questions, and the Cyan mission's general goals and aspirations are available here:
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=98940CgZHI0" target="_blank"><img src="./assets/images/vtEUvj4.jpeg" width="400" alt="TSM: Hello, Cyan! - with Dahl Winters" /></a>
+    <a href="https://www.youtube.com/watch?v=98940CgZHI0" target="_blank"><img src="./assets/images/vtEUvj4.jpeg" width="400" alt="TSM: Hello, Cyan! - with Dahl Winters"></a>
 </div>
 
 # Vision
