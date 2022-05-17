@@ -27,7 +27,7 @@ _A clear and concise description of what the problem is._
 
 _Make sure your have performed every step and checked the applicable boxes before submitting your issue. Thank you!_
 
-- [ ] Read the [Contributing Guide and Policy](https://github.com/openair-collective/openair-cyan/tree/repo-tools/docs/CONTRIBUTING.md) and [the Code of Conduct](https://github.com/openair-collective/openair-cyan/tree/repo-tools/CODE_OF_CONDUCT.md)
+- [ ] Read the [Contributing Guide and Policy](https://github.com/openair-collective/openair-cyan/tree/docs/CONTRIBUTING.md) and [the Code of Conduct](https://github.com/openair-collective/openair-cyan/tree/docs/CODE_OF_CONDUCT.md)
 - [ ] Searched the problem in [issues](https://github.com/openair-collective/openair-cyan/issues)
 - [ ] Searched the problem in [discussions](https://github.com/openair-collective/openair-cyan/discussions)
 - [ ] Searched the problem in the [docs](https://openair-collective.github.io/openair-cyan/FAQ)
