@@ -4,7 +4,7 @@
 - name: Dahl Winters
   github: dahlwinters
   linkedin: dahlwinters
-  twitter:
+  twitter: dahlwinters
   description: 'Initiator / Researcher / Co-founder'
 
 - name: Matthew Parker
@@ -13,17 +13,17 @@
   twitter: madparker
   description: 'Initiator / Researcher / Co-founder'
 
+- name: Christopher Neidl
+  github: neidl-c
+  linkedin: christopher-neidl-a561535
+  twitter: 'neidl_c'
+  description: 'Organizer / Lead Manager / Co-Founder' #! FIXME: Ask Chris about this
+
 - name: David Wilson
   github: DavidWilsonEE
   linkedin: davidwilson
   twitter:
   description: 'Electronics Engineer'
-
-- name: Christopher Neidl
-  github: neidl-c
-  linkedin: christopher-neidl-a561535
-  twitter: 'neidl_c'
-  description: 'Organizer / Lead Manager' #! FIXME: Ask Chris about this
 
 ---
 
