@@ -9,7 +9,6 @@ image_description: "Flow diagram of Carbon Capture Cycle"
 image_category: "carbon-capture"
 image_tags: "CO2 capture cycle flowchart"
 image_src: "/openair-cyan/assets/images/assemblyinst/Cyan_Process.jpg"
-
 ---
 
 [![GitHub issues](https://img.shields.io/github/issues/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/issues) [![GitHub forks](https://img.shields.io/github/forks/openair-collective/openair-cyan?style=plastic)](https://github.com/openair-collective/openair-cyan/network)
@@ -75,15 +74,15 @@ Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are [a
 
 # Carbon Capture Details
 
-{% for tags in page.image_tags %}
+<!-- {% for tags in page.image_tags %}
     {% assign alt_tags = tags | split: "  " %}
 {% endfor %}
 
-{% include image.html title=page.image_title image=page.image_category description=page.image_description src=page.image_src tags=alt_tags %}
+{% include image.html title=page.image_title image=page.image_category description=page.image_description src=page.image_src tags=alt_tags %} -->
 
-<!-- <div align="center">
+<div align="center">
     <img src="./assets/images/assemblyinst/Cyan_Process.jpg" width="600" alt="Diagram of Cyan's Carbon Removal Process" />
-</div> -->
+</div>
 
 ## Inputs and Outputs
 
