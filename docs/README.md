@@ -6,7 +6,7 @@ has_children: false
 permalink: index.html
 image_title: "Carbon Capture Details"
 image_description: "Flow diagram of Carbon Capture Cycle"
-image_category: "index"
+image_category: "carbon-capture"
 image_tags: "CO2 capture cycle flowchart"
 image_src: "/openair-cyan/assets/images/assemblyinst/Cyan_Process.jpg"
 
