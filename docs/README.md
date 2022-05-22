@@ -74,12 +74,6 @@ Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are [a
 
 # Carbon Capture Details
 
-<!-- {% for tags in page.image_tags %}
-    {% assign alt_tags = tags | split: "  " %}
-{% endfor %}
-
-{% include image.html title=page.image_title image=page.image_category description=page.image_description src=page.image_src tags=alt_tags %} -->
-
 <div align="center">
     <img src="./assets/images/assemblyinst/Cyan_Process.jpg" width="600" alt="Diagram of Cyan's Carbon Removal Process" />
 </div>
