@@ -1,4 +1,5 @@
-$body-background-color: #202225;
+$dark-mode-bg: #202225;
+$body-background-color: $dark-mode-bg;
 $border-color: $grey-dk-200;
 
 $body-text-color: $grey-lt-300;
@@ -46,8 +47,12 @@ ul > li > a {
   color: $blue-000;
 }
 
+.main-header.nav-open {
+  background-color: $dark-mode-bg;
+}
+
 #main-content blockquote {
-  background-color: #202225;
+  background-color: $dark-mode-bg;
 }
 
 #main-content a {

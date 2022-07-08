@@ -1,7 +1,6 @@
-async function switchScheme(isClicked) {
-  if (isClicked == true) {
-    jtd.setTheme("openair");
-  } else {
-    jtd.setTheme("light");
-  }
+async function switchScheme() {
+  localStorage.getItem('theme') === 'dark' ? jtd.setTheme("openair") : jtd.setTheme("light");
 }
+window.onload = function(){
+  switchScheme();
+};

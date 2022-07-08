@@ -29,11 +29,13 @@
     async function toggleDetect() {
         if (isClicked == false) {
             isClicked = true;
-            switch_scheme.textContent = "Light Mode";
+            switch_scheme.textContent = "Dark Mode";
+            localStorage.setItem("theme", "light");
         } else {
             isClicked = false;
-            switch_scheme.textContent = "Dark Mode";
+            switch_scheme.textContent = "Light Mode";
+            localStorage.setItem("theme", "dark");
         }
-        await switchScheme(isClicked);
+        await switchScheme();
     }
 </script>
