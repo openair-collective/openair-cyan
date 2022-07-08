@@ -1,0 +1,423 @@
+{"0": {
+    "doc": "CO2: Capture measurements",
+    "title": "CO2: Capture measurements",
+    "content": "Loading… View the $ CO_2 $ Measurements Sheet in a new tab &rarr; Download the $ CO_2 $ Measurements Sheet &darr; . ",
+    "url": "https://openair-collective.github.io/openair-cyan/capture_measurements/",
+    "relUrl": "/capture_measurements/"
+  },"1": {
+    "doc": "Cyan Q and A",
+    "title": "CYAN DECARBONIZER Q&amp;A  Welcome to our FAQ!",
+    "content": ". ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"2": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Where did Cyan come from and who invented it?\n                ",
+    "content": "The Cyan idea was conceived by Dahl Winters of DeepScience Ltd in late November, 2020. She built and later open-sourced Cyan; it is now the first OSHWA-certified direct air carbon capture unit. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"3": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    What community is contributing to the Cyan project and who can join it?\n                ",
+    "content": "The OpenAir Collective is the headquarters of the Cyan project. Anyone is welcome to join OpenAir . and contribute to the progress of Cyan. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"4": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    What is the ultimate goal of the Cyan project? E.g., is it to be an educational resource so people can make their own boxes?\n                ",
+    "content": "The goal of Cyan is to introduce small-scale carbon removal devices so that people feel more comfortable with the idea of carbon removal and are more likely to support the production and use of larger units. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"5": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Is there an intention to sell Cyan kits, or maybe completed Cyan units for people that don't have time to build their own?\n                ",
+    "content": "We might sell kits and completed boxes in the future, especially if the complexity of these grows, but for now the intention is to have people build their own. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"6": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Is there a goal of OpenAir that open-source businesses might arise using the Cyan (or Violet) technology?\n                ",
+    "content": "OpenAir wants to promote the growth of carbon removal and direct air carbon capture, so to the extent that open-source businesses might arise, that would seem consistent with our goals. However, there is no current goal to commercialize the Cyan/Violet technology, we just want to get the technology out there for as many people to use and improve. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"7": {
+    "doc": "Cyan Q and A",
+    "title": "Technical",
+    "content": ". ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/#technical",
+    "relUrl": "/cyan_q_and_a/#technical"
+  },"8": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    What is the mechanism by which humidifying the air improves performance? Is it that the $CO_2$ forms a carbonic acid mist, which reacts with the $Ca(OH)_2$? Or another mechanism?\n                ",
+    "content": "The mechanism in which we are exploiting is, there must be a thin layer of water on the surface of each grain of $Ca(OH)_2$ for the $CO_2$ to react with and form carbonic acid. The carbonic acid ($H_2CO_3$) can then react with $Ca(OH)_2$ to form $CaCO_3$ and $H_2O$. This is an acid-base reaction and also a double displacement reaction. Humidifying the air increases the opportunity for this thin layer of water to form. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"9": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Would moistening the $Ca(OH)_2$ accomplish the same thing without having to humidify the air?\n                ",
+    "content": "Moistening the $Ca(OH)_2$ would certainly help the thin layer of water to form faster, but too much moisture impedes the airflow of $CO_2$ between grains of $Ca(OH)_2$. If all the pores are blocked with water, then we have the equivalent of an aqueous solution and $CO_2$ is less soluble in water than in air. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"10": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Are there any studies (theoretical or experimental) of the ideal humidity level?\n                ",
+    "content": "There have been experimental studies of the ideal humidity level from concrete carbonation. Concrete contains calcium hydroxide and the ideal humidity has been between 50-75% . ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"11": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    What is the purpose in bubbling the air through the water in the bottom of the Cyan? If the air were humidified another way, would there still be any reason to bubble it? And in that case, would the water in the bottom of the box still be needed?\n                ",
+    "content": "The air bubbling through water serves two purposes - to continuously add $CO_2$ to the system for removal, and to get water onto the filter paper at a slow enough rate that the water is wicked across the filter paper and $Ca(OH)_2$ powder to help form the necessary thin layer of water across each $Ca(OH)_2$ grain. If the air were humidified another way, some mechanism would still be necessary to quickly wet the powder since air humidification is not fast enough (it takes concrete years for its calcium hydroxide to carbonate). The water at the bottom of the box is only there to wet the filter paper through bubbling. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"12": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    I saw a reference to an experiment using an ultrasonic humidifier; was that successful?\n                ",
+    "content": "The ultrasonic humidifier was successful but it was not as energy efficient and required a longer time to thoroughly wet the material to near saturation. With larger quantities of material it might be useful, but for just 10 grams of $Ca(OH)_2$ the emissions due to a power consumption of 24W (24V at 1A) was more than the amount of carbon dioxide that would be removed. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"13": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    In the standard Cyan build, is there any significance to the dimensions of the specific hummus container used? Or to the exact depth of the water?\n                ",
+    "content": "There is no significance to the dimensions of the hummus container used or to the exact depth of the water. The hummus container merely provides something for the filter paper containing the input material to rest on while it is being slowly wetted from below from the air bubbling and consequently the water being disturbed. If it is possible to wet the filter paper through a different means, as through an atomizer, there quite possibly would be no need for standing water at the bottom. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"14": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Can the hummus container be replaced with anything (e.g. a wire shelf) that holds the $Ca(OH)_2$ above the surface of the water?\n                ",
+    "content": "Yes. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"15": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    What is the purpose of using a coffee filter instead of just scattering the material on the upturned lid?\n                ",
+    "content": "The coffee filter is something that can be weighed beforehand and that also wicks water to slowly wet the $Ca(OH)_2$ powder. Scattering the material on the upturned lid would not allow for easy removal (the powder sticks to the lid) and there is no easy way to slowly wet the powder. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"16": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    You mentioned that the aquarium pump can be shut off when the air is humid enough. In that case, how does more air get into the container?\n                ",
+    "content": "The aquarium pump does not have to be run continuously; it can be shut off for intervals of time while the $CO_2$ already in the container is taken up by the $Ca(OH)_2$. The container is not air-tight so $CO_2$ is always diffusing in and out. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"17": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Is the drying action of the fans an essential part of the carbon capture process, or is it a temporary R&amp;D addition to the design to allow us to measure the effectiveness by weighing?\n                ",
+    "content": "A significant amount of $CO_2$ (as much as 50%) is taken up during the drying process and that $CO_2$ uptake is aided by greater airflow. It improves the likelihood that a $CO_2$ molecule will react with the wet $Ca(OH)_2$. However, the fan is not deemed absolutely essential to the carbon capture process. $CO_2$ will still be taken up, just at a slower rate. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"18": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    The current design captures about 2g of $CO_2$ for each 10g of $Ca(OH)_2$. How does this compare to the theoretical (stoichiometric) maximum amount that can be captured?\n                ",
+    "content": "The theoretical maximum amount that can be captured is $ 5.94g CO_2 / 10g Ca(OH)_2$ (and for $Mg(OH)_2$, it is $ 7.55g CO_2/10g Mg(OH)_2$). We are at best achieving about a third of the theoretical maximum. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"19": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    If current performance is short of the theoretical, is that just because not enough surface area of the powder is exposed to the air?\n                ",
+    "content": "There are a number of factors involved. Increases in temperature and pressure generally improve reaction rates. However, performance was increased by a factor of two just by manually disturbing the surface of the powder once, halfway during the experimental run. This leads us to believe that there is a surface area limitation. Mechanically disturbing the layer of powder in an intermittent manner should help greatly. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"20": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Would efficiency be expected to improve if the air is made turbulent?\n                ",
+    "content": "We believe we are not seeing laminar airflow in our system given the fluid properties and speeds of the air. The air is likely already turbulent, and especially so when the fan is being used for drying. If the air is made even more turbulent, efficiency could possibly improve, but this has not been tested. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"21": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Has there been any confirmation of the accuracy of the weighing method for measuring captured $CO_2$?\n                ",
+    "content": "The weighing method is called gravimetric analysis and is widely used in chemistry for measuring the amount of a compound based on its mass. It suffers from the ability of product to be lost through container transfers and through evaporation. Of higher accuracy would be thermogravimetric analysis, but this is expensive and time consuming. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"22": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    What other materials besides $Ca(OH)_2$ have been tried, and with what success?\n                ",
+    "content": "$Mg(OH)_2$ has been tried with similar and possibly slightly higher levels of carbon removal. It is also a more friendly material in terms of pH. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"23": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Has anyone tried to calculate the carbon footprint of the whole device (plastic, etc.)?\n                ",
+    "content": "Not completely, but it has been partially attempted. The carbon footprint of the energy consumption and the transportation of input material has been taken into account in the Cyan Supporting System Calculations.xlsx document available from our GitHub repository. In a separate document, estimates of the energy consumption used in producing $Mg(OH)_2$ have also been done, namely to determine the degree of impact of various manufacturing processes on Cyan's ability to achieve negative emissions. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"24": {
+    "doc": "Cyan Q and A",
+    "title": "\n                    Would it work to dissolve the X ($OH$) in solution, bubble the air through it, and let the X ($CO_3$) precipitate out?\n                ",
+    "content": "This would indeed work; aqueous solutions are used in industrial carbon removal (Carbon Engineering for example uses an aqueous solution of $KOH$). The difficulty here is in controlling leakage and evaporation effects and in filtering out the precipitate to weigh it and calculate the amount of $CO_2$ captured. Inevitably, some precipitate sticks to the inner walls of the device, causing product losses prior to weighing. ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"25": {
+    "doc": "Cyan Q and A",
+    "title": "Cyan Q and A",
+    "content": " ",
+    "url": "https://openair-collective.github.io/openair-cyan/cyan_q_and_a/",
+    "relUrl": "/cyan_q_and_a/"
+  },"26": {
+    "doc": "Welcome to Cyan",
+    "title": "Welcome to Cyan",
+    "content": " ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html#welcome-to-cyan",
+    "relUrl": "/index.html#welcome-to-cyan"
+  },"27": {
+    "doc": "Welcome to Cyan",
+    "title": "Table of contents",
+    "content": ". | Purpose | Vision | The Documentation, Q&amp;A, Wiki, and Project Updates | Carbon Capture Details . | Inputs and Outputs | Emissions Reduction | Achieving Negative Emissions | . | Licenses | . Welcome to the documentation for the Cyan Decarbonizer, version 1. A DIY small-scale open hardware direct air carbon capture (DACC) system. | ![Build Status](./assets/images/assemblyinst/cyan_side_view.png) | . | *The outer box and fan are optional for experimentation. The humidification chamber and air pump are the minimum required items.* | . ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html#table-of-contents",
+    "relUrl": "/index.html#table-of-contents"
+  },"28": {
+    "doc": "Welcome to Cyan",
+    "title": "Purpose",
+    "content": "This portable system operates at a small enough scale to empower individuals to tangibly experience carbon removal. It is also designed to get people actively thinking and sharing their carbon footprint and their role in the carbon cycle. You can take a 5-minute tour of a Cyan system and learn more about the details of the project here: . If you have twenty-something minutes, details about the device design, current challenges, opportunities and big questions, and the Cyan mission’s general goals and aspirations are available here: . ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html#purpose",
+    "relUrl": "/index.html#purpose"
+  },"29": {
+    "doc": "Welcome to Cyan",
+    "title": "Vision",
+    "content": "Cyan is named in honor of cyanobacteria. As cyanobacteria did with oxygen, the vision was that many of these small-scale DACC units might come to have a significant impact on atmospheric $CO_2$ and thus climate change. If not directly due to their small size, then indirectly through the promotion of DACC as a technology and through the educational experience of using Cyan. The educational experience might be the biggest way that Cyan units will combat climate change. One can quickly see what $CO_2$ emissions look like in trapped form, how much it weighs, and how long it takes to capture it. DACC starts to become a conversation point among friends and family. People start wanting to run Cyans to erase the emissions from their light bulbs, for example. And if they can neutralize those emissions, what’s next? Household emissions? Should I buy a bigger DACC unit to cover my home’s emissions? And so on. ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html#vision",
+    "relUrl": "/index.html#vision"
+  },"30": {
+    "doc": "Welcome to Cyan",
+    "title": "The Documentation, Q&amp;A, Wiki, and Project Updates",
+    "content": "The Cyan Assembly Instructions will get you started with an overview of how it works, a parts list, and instructions for putting it together. All this information can be found on this website. We now have a Cyan Q&amp;A that goes over some common general and technical questions. The Supporting System Calculations describe the logic that went into designing the system, from a LCA/TEA perspective. The $CO_2$ Capture Measurements describe results obtained so far on how well this system can perform. To report your modifications, experimental results, and feedback for making Cyan better, please visit the Cyan DataShare site. To see an overview of where we are with current progress, please view the Projects board. Lastly, to view Cyan Project Progress updates on the OpenAir Forum, those are available here. ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html#the-documentation-qa-wiki-and-project-updates",
+    "relUrl": "/index.html#the-documentation-qa-wiki-and-project-updates"
+  },"31": {
+    "doc": "Welcome to Cyan",
+    "title": "Carbon Capture Details",
+    "content": " ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html#carbon-capture-details",
+    "relUrl": "/index.html#carbon-capture-details"
+  },"32": {
+    "doc": "Welcome to Cyan",
+    "title": "Inputs and Outputs",
+    "content": "The input material, calcium hydroxide, can be found in any home improvement store as hydrated lime. However, for Cyan to be carbon-negative the input must either be sourced from a low-carbon supplier or obtained from waste cement. The output material, calcium carbonate can be used in building materials (cement-lime) or as agricultural lime. Magnesium hydroxide is also an option for use as the input material. Though perhaps more expensive depending on the source, it is less alkaline than calcium hydroxide and has performed as well to slightly better than calcium hydroxide in carbon capture effectiveness in our Cyan tests. It can also be used to make tiles or blocks when mixed with cement and optionally biochar. We hope to have a low-carbon supplier later this year. ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html#inputs-and-outputs",
+    "relUrl": "/index.html#inputs-and-outputs"
+  },"33": {
+    "doc": "Welcome to Cyan",
+    "title": "Emissions Reduction",
+    "content": "At present, a Cyan will remove over the course of 24 hours the same amount of $CO_2$ emitted by running a 9-watt LED bulb for 3 hours. That is 2 grams of $CO_2$ for 10grams of input material - or a 0.2:1 ratio. It is within theoretical possibility for this unit to remove the emissions of 20 9-watt LED bulbs for 3 hours (a whole house at night), that is 0.382 kg of $CO_2$ that would need to be captured. Adequate surface area needs to be provided within the unit to do this and we are presently working on that. ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html#emissions-reduction",
+    "relUrl": "/index.html#emissions-reduction"
+  },"34": {
+    "doc": "Welcome to Cyan",
+    "title": "Achieving Negative Emissions",
+    "content": "The calcium hydroxide needs to be exposed to high humidity from between 3 to 16 hours to achieve a good level of carbonation. Keeping the electricity consumption low will ensure Cyan removes more $CO_2$ than it emits through electricity use. Cyan uses 1.5 watts of electricity to power the air pump which bubbles air through water and humidifies the calcium hydroxide, allowing $CO_2$ to be absorbed. However, the air pump does not need to be run continuously to maintain adequate humidification. A duty cycle of, say, 10 minutes on &amp; 50 minutes off is possible and suggested for negative emissions (more $CO_2$ removed than consumed by the air pump). The fan uses 3 watts but only needs to be run intermittently to refresh the air inside the box. The fan is also useful to speed up dry time but this is not essential for operation. If you’re going for negative emissions, air drying would really help unless you are using renewable energy to power your unit. ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html#achieving-negative-emissions",
+    "relUrl": "/index.html#achieving-negative-emissions"
+  },"35": {
+    "doc": "Welcome to Cyan",
+    "title": "Licenses",
+    "content": ". All hardware materials and designs provided here are licensed under the CERN-OHL-P hardware license. All software is under the GNU General Public License v3.0 (GPL-3.0). All documentation, including the Wiki, is under the Creative Commons CC-BY-SA-4.0 license. ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html#licenses",
+    "relUrl": "/index.html#licenses"
+  },"36": {
+    "doc": "Welcome to Cyan",
+    "title": "Welcome to Cyan",
+    "content": ". ",
+    "url": "https://openair-collective.github.io/openair-cyan/index.html",
+    "relUrl": "/index.html"
+  },"37": {
+    "doc": "About",
+    "title": "About Us",
+    "content": " ",
+    "url": "https://openair-collective.github.io/openair-cyan/about/#about-us",
+    "relUrl": "/about/#about-us"
+  },"38": {
+    "doc": "About",
+    "title": "Key Members",
+    "content": "Meet the Team! . | Dahl Winters - Initiator / Researcher / Co-founder . | Matthew Parker - Initiator / Researcher / Co-founder . | Christopher Neidl - Organizer / Lead Manager / Co-Founder . | David Wilson - Electronics Engineer . | . ",
+    "url": "https://openair-collective.github.io/openair-cyan/about/#key-members",
+    "relUrl": "/about/#key-members"
+  },"39": {
+    "doc": "About",
+    "title": "Cyan constructors",
+    "content": "This is not an exhaustive list; it is just an example of where Cyans have been built. If you feel that you should be on this list, please contact us. Individuals . | Dahl Winters . | David Wilson . | Courtni Holness . | Ross Kenyon . | Aline Uwase . | . Teams . | University of Michigan’s Global CO2 Initiative Student Association (GCISA) | University of Waterloo | . ",
+    "url": "https://openair-collective.github.io/openair-cyan/about/#cyan-constructors",
+    "relUrl": "/about/#cyan-constructors"
+  },"40": {
+    "doc": "About",
+    "title": "Philosophy",
+    "content": "The Technical Details section of this website includes some of our teams own notes (not all of them are polished) that we disclose for other people to use. There, we hope you may find something useful to you. We advocate the Open Source model. This is why we strive to make our work open to other people for consultation, replication and reuse. ",
+    "url": "https://openair-collective.github.io/openair-cyan/about/#philosophy",
+    "relUrl": "/about/#philosophy"
+  },"41": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "https://openair-collective.github.io/openair-cyan/about/",
+    "relUrl": "/about/"
+  },"42": {
+    "doc": "Aqueous Cyan (Beta)",
+    "title": "Aqueous Cyan (Beta)",
+    "content": "The Aqueous Cyan is an experimental alternative version of the original Cyan. The Aqueous Cyan is a variation on the original Cyan that we have been experimenting with. As with all Cyan designs, the goal is to come up with a distributed direct-air carbon dioxide capture device that is efficient, cheap, and easy for non-technical people to build and operate. We welcome any comments or help from people from other fields, particularly chemistry, chemical engineering, and mechanical engineering. Some ideas are in the file below. If you are seeing this text, the preview of the pdf failed. Most likely this happened because your browser does not support this technical feature. In this case, please download using the link below. If you do not see the embedded pdf, you can try viewing the pdf here. Alternatively, you can download the pdf using the link above. ",
+    "url": "https://openair-collective.github.io/openair-cyan/aqueous_cyan/",
+    "relUrl": "/aqueous_cyan/"
+  },"43": {
+    "doc": "Construction: Box and Fan",
+    "title": "Construction: Box and Fan",
+    "content": "Important: Optional - for Experimentation Only . The fan has two sides, each with four corners with anti-vibration foam pieces held in place by screws. The fan grilles are also held in place with these screws. The fan will blow air in the direction of back to front, so when we mount the fan on the side of the box, we expect it to pull air from inside and push it outside. We will use one of the fan grilles as a template for where to drill holes into the side of the box, as well as where to cut the circular hole that will let the air through. Disassemble the back of the fan to obtain just the grille by unscrewing the 4 screws at each corner. You will not need the anti-vibration foam piece at each corner for anything so those can be saved for other uses. Once you have the back grille off, center it on the short side of the box, just under the plastic handle. You can use optional neodymium magnets to hold the grille in place by putting one magnet on the outside and one on the inside of the plastic side wall. Next, score the plastic along the outermost circle on the grille with a box cutter blade. You may also decide to use a Sharpie to more clearly identify the hole to be cut. Instead of a box cutter blade, a small tooth reciprocating saw would be very helpful to avoid the initial breaks in the plastic caused by getting the hole started and widened. Once the hole is cut, on the inside, take the 4 screws and back grille from the fan and slip one of the safety grilles between the back grille and the fan blade. A safety grille should also be added between the front grille and fan blade as well. One is not shown in the image below and to the right for initial airflow considerations, but it is advisable if you might have small external objects that could find their way through the front grille and into the fan blade. For the input vent, repeat the hole-cutting process on the opposite side of the box from the fan, using the 8/32” screws and nuts provided with the safety grilles to add two safety grilles, one on the inside and one on the outside. The screws should face inward for best appearance. Here is a picture of the fan from the side. The input vent is on the opposite side. ",
+    "url": "https://openair-collective.github.io/openair-cyan/construction/box_and_fan/",
+    "relUrl": "/construction/box_and_fan/"
+  },"44": {
+    "doc": "Comments and Suggestions",
+    "title": "Comments and Suggestions",
+    "content": "Comments . Load Comments . Load Older Comments There are currently no comments on this article, be the first to add one below . Add a Comment . Note that we may remove comments for any reason, so try to be civil. If you are looking for a response to your comment, either leave your email address or check back on this page periodically. | . | | Post | . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. ",
+    "url": "https://openair-collective.github.io/openair-cyan/comments_suggetions/",
+    "relUrl": "/comments_suggetions/"
+  },"45": {
+    "doc": "Contact Us",
+    "title": "Contact Us",
+    "content": "Please join our discord for updates and any questions. | Discord | . ",
+    "url": "https://openair-collective.github.io/openair-cyan/contact/",
+    "relUrl": "/contact/"
+  },"46": {
+    "doc": "Cyan: Supporting System Measurements",
+    "title": "Cyan: Supporting System Measurements",
+    "content": "Loading… View the Supporting System Measurements Sheet in a new tab &rarr; Download the Supporting System Measurements Sheet &darr; . ",
+    "url": "https://openair-collective.github.io/openair-cyan/supporting_measurements/",
+    "relUrl": "/supporting_measurements/"
+  },"47": {
+    "doc": "HELP! Ideas Needed",
+    "title": "HELP! Ideas Needed",
+    "content": "Loading… ",
+    "url": "https://openair-collective.github.io/openair-cyan/help_us/",
+    "relUrl": "/help_us/"
+  },"48": {
+    "doc": "Construction: Humidifier Box",
+    "title": "Construction: Humidifier Box",
+    "content": "Wash the Sabra hummus container (“container”) thoroughly. Create a hole in the center of the lid since you will be letting in water, otherwise the container will float within the box. You may wish to remove a few labels before placing the lid on top and placing the whole assembly within the Sterilite FlipTop box. Cut about 1 foot of air tubing (this may be too short for your needs, but ideal if you are locating the pump directly alongside the box). Attach the tubing to the pump, then attach the air stone to the other end of the tubing. The air stone is the blue porous ceramic object; air blows into the stone and finely diffuses through to create many small bubbles. Place the container inside the box. It should fit very nicely and effectively divide the space between the upper and lower halves of the box. Fill the box up to the level of the container lid with water. Allow the water to go into the container as well. The water level should be up to the top of the lid (the whole container should be submerged). Place the air stone so that it is on its side, alongside the submerged container. One of the back corners near the box’s hinge is a good place. You may wish to drill a hole in the lid to allow the air tubing to easily pass through. We did not find a hole necessary, as the lid can be snapped mostly shut with the air tubing in place. Place the 1 quart container lid on top of the hummus container lid. It will float in place and should not sink. This is shown below. When ready to do a run, you will add a coffee filter with the desired amount of $Ca(OH)_2$ onto the 1 quart container lid, close the box lid, then plug in the air pump and let it run for your desired amount of time (below). If you wish to speed up the drying process after you remove the coffee filter (i.e. to weigh the product and find out how much $CO_2$ you obtained), please go on to the next section, which is the box and fan assembly. ",
+    "url": "https://openair-collective.github.io/openair-cyan/construction/humidifier_box/",
+    "relUrl": "/construction/humidifier_box/"
+  },"49": {
+    "doc": "Technical Details",
+    "title": "Introduction",
+    "content": "Purpose: These are instructions to build an open hardware, DIY DACC unit for home or classroom use. Expected results: an up to 12.5% weight increase from $CO_2$ uptake over the course of a 16-hour period when starting with 10g input material. This translates into about a 2.1g $CO_2$ uptake obtainable during a single run. The average has been about 1.7g across multiple runs. Minimal parts cost: &lt;$20 for the basic system which consists of a humidifier box and air pump; about $100 to add the box and fan for experimentation (not necessary). Goal: The goal of this project was to build a high-efficiency, very low cost direct air carbon capture (DACC) system. We call the system Cyan in honor of Violet, OpenAir’s moisture swing sorbent DACC, and also in honor of cyanobacteria, whose combined efforts transformed the early Earth’s atmosphere. Similarly, we believe millions of distributed, consumer-scale DACC units could someday complement large-scale DACC efforts and make a difference when it comes to climate change. This unit will not solve the climate crisis alone, but many of these will open doors to discussion, education, behavior changes, modifications, and further R&amp;D to improve the state of DACC. And that is what we desperately need to limit the possibility of dangerous warming. ​ . ​ . ",
+    "url": "https://openair-collective.github.io/openair-cyan/introduction/#introduction",
+    "relUrl": "/introduction/#introduction"
+  },"50": {
+    "doc": "Technical Details",
+    "title": "Chemistry and Benefits",
+    "content": "The carbonation reaction (also known as carbonatation) is being used to capture $CO_2$ as follows: . $Ca(OH)_2 + CO_2 -&gt; CaCO_3 + H_2O$ . This reaction takes place naturally, especially in concrete, but typically takes a very long amount of time (months to years). Cyan speeds up the reaction considerably by increasing the relative humidity and forcing this “wet” air into the reaction chamber to offset $CO_2$ declines as the reaction progresses. Calcium carbonate ($CaCO_3$) is a safe output that is actually the main constituent of limestone. It can be extracted, filtered, dried, weighed, and the quantity of $CO_2$ taken up can be determined through calculation from the weight. No equipment is required to pressurize the captured $CO_2$, making Cyan a good choice for true consumer-scale DACC. ",
+    "url": "https://openair-collective.github.io/openair-cyan/introduction/#chemistry-and-benefits",
+    "relUrl": "/introduction/#chemistry-and-benefits"
+  },"51": {
+    "doc": "Technical Details",
+    "title": "Challenges and Limitations",
+    "content": "The carbonation reaction is slow due to the formation of a passivating layer of $CaCO_3$ around $Ca(OH)_2$ molecules. While bubbles of $CO_2$ were produced upon filtering, drying, and applying 5% distilled white vinegar (acid test for the presence of $CaCO_3$), it is very likely that not all the $Ca(OH)_2$ is converted to $CaCO_3$ in 24 hours. Thus we still need to quantify the amount of $CO_2$ that is captured per gram of $Ca(OH)_2$ to see how that depends on different variables. To achieve true negative emissions using Cyan, you will need to start with a source of carbon-neutral $Ca(OH)_2$. Hydrated lime is a good consumer source; it is very easy to buy hydrated lime at a gardening or hardware store. However, this hydrated lime comes from calcium oxide (lime) produced through calcination, a very energy-intensive process with temperatures above 900 degrees Celsius. This energy is typically supplied mostly by fossil fuels, though renewable sources are becoming increasingly prevalent in the energy mix. There are projects underway to produce lime through concentrated solar, but for now this is a one-way reaction to produce calcium carbonate without regenerating the lime. ",
+    "url": "https://openair-collective.github.io/openair-cyan/introduction/#challenges-and-limitations",
+    "relUrl": "/introduction/#challenges-and-limitations"
+  },"52": {
+    "doc": "Technical Details",
+    "title": "Safety Considerations",
+    "content": "Careful Consideration of your safety is important . Warning: $Ca(OH)_2$ comes in powdered form and although it has uses in pickling and gardening, it can do great damage if rubbed into the eyes, inhaled, or ingested. Scoop the material and avoid pouring; if you do pour, a mask should be worn so as not to inhale the dust. Do not ingest any reactant or product, even the calcium carbonate you produce. It’s never a good idea to eat the products of your chemical reactions. Also, since the aquarium air pump does not have a grounding plug (the case for most such pumps), the safety considerations for working with electricity near water should be observed. ",
+    "url": "https://openair-collective.github.io/openair-cyan/introduction/#safety-considerations",
+    "relUrl": "/introduction/#safety-considerations"
+  },"53": {
+    "doc": "Technical Details",
+    "title": "Technical Details",
+    "content": " ",
+    "url": "https://openair-collective.github.io/openair-cyan/introduction/",
+    "relUrl": "/introduction/"
+  },"54": {
+    "doc": "Materials and Tools Required",
+    "title": "Materials and Tools Required",
+    "content": " ",
+    "url": "https://openair-collective.github.io/openair-cyan/construction/materials_and_tools/",
+    "relUrl": "/construction/materials_and_tools/"
+  },"55": {
+    "doc": "Materials and Tools Required",
+    "title": "Materials",
+    "content": ". | Sterilite 2.5 Qt FlipTop (reaction chamber) | Tetra Whisper 10 Aquarium Air Pump (for enhancing airflow) | Air Tubing and Air Stone (for creating the humid air) | Empty Sabra Hummus Container, 10oz (or equivalent shape container - needed only for spacing the lid below in the right position above the water) | Lid from 1 quart yogurt container (or equivalent - needed only for holding a coffee filter that holds the calcium hydroxide) ​ You will also need a high purity source of calcium or magnesium hydroxide. Calcium hydroxide can be purchased as pickling lime or as kalkwasser for saltwater aquariums. | . ",
+    "url": "https://openair-collective.github.io/openair-cyan/construction/materials_and_tools/#materials",
+    "relUrl": "/construction/materials_and_tools/#materials"
+  },"56": {
+    "doc": "Materials and Tools Required",
+    "title": "Tools Needed",
+    "content": ". | Scissors (useful for cutting air tubing) | If you do not already have a scale for weighing, you will need one that has a precision to the nearest 0.1g or less (0.01g is preferable). | . Tools for the optional Box and Fan setup . | Drill with 8/32” drill bit (for fan mounting holes) | Box cutter (for scoring and cutting the fan ventilation holes) | Sharpie or other permanent marker (optional but very useful) | Small reciprocating saw (optional - would be useful for cutting the round ventilation holes on the sides of the file box) | . ",
+    "url": "https://openair-collective.github.io/openair-cyan/construction/materials_and_tools/#tools-needed",
+    "relUrl": "/construction/materials_and_tools/#tools-needed"
+  },"57": {
+    "doc": "Materials and Tools Required",
+    "title": "Optional Materials for Testing",
+    "content": ". | 5% distilled white vinegar (for testing for $CaCO_3$) | Spoon (for dispensing $Ca(OH)_2$ without the need to pour it) | . ",
+    "url": "https://openair-collective.github.io/openair-cyan/construction/materials_and_tools/#optional-materials-for-testing",
+    "relUrl": "/construction/materials_and_tools/#optional-materials-for-testing"
+  },"58": {
+    "doc": "Materials and Tools Required",
+    "title": "Assembly Time Required",
+    "content": "Minimal unit assembly takes a few minutes, assuming you’ve already eaten the hummus from the hummus container. The file box + fan assembly can be done in 2 hours following the provided instructions. ",
+    "url": "https://openair-collective.github.io/openair-cyan/construction/materials_and_tools/#assembly-time-required",
+    "relUrl": "/construction/materials_and_tools/#assembly-time-required"
+  },"59": {
+    "doc": "Operation and Experimentation",
+    "title": "Operation and Experimentation",
+    "content": "Measure out a desired quantity of $ \\boldsymbol{Ca(OH)_2} $ for your test and add it to a coffee filter that has already been weighed without $ \\boldsymbol{Ca(OH)_2} $ added to it. Place the coffee filter onto the HDX lid that is within the humidifier box. Close the lid and run the air pump for your desired amount of time. The powder will start to clump up and form cracks as humidification takes place. ​ ​ . ",
+    "url": "https://openair-collective.github.io/openair-cyan/operation/",
+    "relUrl": "/operation/"
+  },"60": {
+    "doc": "Operation and Experimentation",
+    "title": "Calculating $CO_2$ Uptake",
+    "content": "The coffee filter, plus product, should be thoroughly dried before weighing. Subtract the weight of the coffee filter and also the weight of the $ \\boldsymbol{Ca(OH)_2} $ that you added. That will give the amount of mass change that has taken place. This change in mass is equal to the grams of $ \\boldsymbol{CO_2} $ sequestered minus the grams of water that have evaporated. The carbonation reaction once again is $Ca(OH)_2+CO_2-&gt;CaCO_3+H_2O$. Since both sides of the equation must have the same mass (mass balance), the following must also be true: . change in mass = . $ x * (CaCO_3 M_r - Ca(OH)_2 M_r) = x * (100.0869g/mol - 74.09268g/mol) = x * 25.9942 $ . where $ x=molesCaCO_3 $ produced. It also follows that the grams of $ \\boldsymbol{CO_2} $ captured is $ x * CO_2 M_r = x * 44.0095g/mol $. Thus the change in mass that is measured must be scaled by a factor of $ 44.0095/25.9942=1.693 $ to obtain the actual amount of $CO_2$ taken up. Example: You have added 10.00g $ \\boldsymbol{Ca(OH)_2} $ to a coffee filter weighing 0.86g. The total initial weight is 10.86g. After your run, you measure the weight of the coffee filter + product of 12.11g. You subtract the weight of the coffee filter to get the weight of the product, which is $12.11g-0.86g=\\boldsymbol{11.25g}$. The mass change from final to initial time points is thus $11.25g-10.00g=\\boldsymbol{1.25g}$. You must then increase the mass change by a factor of 1.693 to get the weight of $CO_2$ taken up. This is $1.25g*1.693=\\boldsymbol{2.12g}$. The above was taken from the best experimental run so far. For approximately every 5x $Ca(OH)_2$ inputted, 1x $CO_2$ is taken up. Making a thin layer of $Ca(OH)_2$ really seems to help. ",
+    "url": "https://openair-collective.github.io/openair-cyan/operation/#calculating-co_2-uptake",
+    "relUrl": "/operation/#calculating-co_2-uptake"
+  },"61": {
+    "doc": "Operation and Experimentation",
+    "title": "Confirming the Presence of $CO_2$",
+    "content": "You can confirm the presence of $CaCO_3$ by doing a 5% distilled white vinegar test. A positive test is the visible emission of bubbles $CO_2$ upon applying the vinegar to the product. Make sure you do the test after you have made sure your sample is completely dry and you have already quantified your $CO_2$ uptake, as you will release some of your captured $CO_2$ during this test. ",
+    "url": "https://openair-collective.github.io/openair-cyan/operation/#confirming-the-presence-of-co_2",
+    "relUrl": "/operation/#confirming-the-presence-of-co_2"
+  },"62": {
+    "doc": "Operation and Experimentation",
+    "title": "Storage",
+    "content": "The unit is fine to sit closed for long periods of time. If you leave the water inside, the water will very slowly evaporate. For longer-term storage, empty the water, dry, and store the equipment together. As for storage of the product, partially-reacted $Ca(OH)_2$ stored in thin layers will fully react over time, and it would be educational to check the weight increase over time. ",
+    "url": "https://openair-collective.github.io/openair-cyan/operation/#storage",
+    "relUrl": "/operation/#storage"
+  },"63": {
+    "doc": "Operation and Experimentation",
+    "title": "Disposal/Reuse",
+    "content": "Calcium carbonate is a safe material that surrounds any unreacted $Ca(OH)_2$. Over time, even the unreacted $Ca(OH)_2$ will get carbonated. Disposal should be the same for typical soil materials. Calcium carbonate also has many uses. Note that just because this link includes many medical applications of $CaCO_3$ does not mean you should ingest it - this rule applies for any product you might produce. However, it is fine to use it in the garden in small amounts as a treat for tomatoes and other alkaline-loving plants. It can also be mixed in a 1:1 mixture with cement to form figurines, tiles, bricks, and other creative works. ",
+    "url": "https://openair-collective.github.io/openair-cyan/operation/#disposalreuse",
+    "relUrl": "/operation/#disposalreuse"
+  },"64": {
+    "doc": "Privacy Policy",
+    "title": "Privacy Policy",
+    "content": "The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used. ",
+    "url": "https://openair-collective.github.io/openair-cyan/privacy/",
+    "relUrl": "/privacy/"
+  },"65": {
+    "doc": "Privacy Policy",
+    "title": "Designation of the responsible authority",
+    "content": "The persons responsible for data processing on this website are: . OpenAir-Collective . The responsible body(s) decides alone or jointly with others on the purposes and means of processing personal data (e.g. names, contact details, etc.). ",
+    "url": "https://openair-collective.github.io/openair-cyan/privacy/#designation-of-the-responsible-authority",
+    "relUrl": "/privacy/#designation-of-the-responsible-authority"
+  },"66": {
+    "doc": "Privacy Policy",
+    "title": "Log Files",
+    "content": "Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include: . | Internet Protocol addresses (IP) | Types of browser | Internet Service Provider (ISP) | Date and time stamp | Referring and exit pages | Number of clicks | . All of this information is not linked to anything that is personally identifiable. ",
+    "url": "https://openair-collective.github.io/openair-cyan/privacy/#log-files",
+    "relUrl": "/privacy/#log-files"
+  },"67": {
+    "doc": "Privacy Policy",
+    "title": "Cookies and Web Beacons",
+    "content": "I use cookies on this site to store limited information about how you interact with the site. In line with EU legislation, I have identified several different types of cookies: . | Strictly necessary cookies. | I set a cookie to store your acceptance of my cookie policy. This expires after 31 days. | . | Preferences cookies to remember your preferences. These are not used on this website. | Statistics cookies that allow me to see how my audience uses the website. I use: . | Google Analytics | . | Marketing cookies to help advertisers deliver relevant content are not used on this website. | . ",
+    "url": "https://openair-collective.github.io/openair-cyan/privacy/#cookies-and-web-beacons",
+    "relUrl": "/privacy/#cookies-and-web-beacons"
+  },"68": {
+    "doc": "Privacy Policy",
+    "title": "Google Analytics",
+    "content": "Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. Individual IP addresses are anonymized. You can read Google Analytics Privacy Policy. Objection to data collection . You can prevent the collection of your data by Google Analytics by clicking on the following link https://tools.google.com/dlpage/gaoptout. An opt-out cookie is set to prevent the collection of your information on future visits to our site: Disable Google Analytics. Details on how Google Analytics handles user data can be found in the Google privacy policy: https://support.google.com/analytics/answer/6004245. Demographic characteristics at Google Analytics . This website uses the function “demographic characteristics” of Google Analytics. It can be used to generate reports that contain information about the age, gender and interests of visitors to the site. This data comes from interest-based advertising by Google as well as from visitor data from third parties. It is not possible to assign the data to a specific person. You can deactivate this function at any time. You can do this through the ad settings in your Google Account or by generally prohibiting the collection of your data by Google Analytics, as explained in the section “Opting out of data collection”. ",
+    "url": "https://openair-collective.github.io/openair-cyan/privacy/#google-analytics",
+    "relUrl": "/privacy/#google-analytics"
+  },"69": {
+    "doc": "Privacy Policy",
+    "title": "Google Web Fonts",
+    "content": "This website uses Web Fonts from Google. The provider is Google Inc, 1600 Amphitheater Parkway, Mountain View, CA 94043, USA. The use of Google Fonts allows me to present this website using my choice of fonts, regardless of the fonts that are installed locally. This is done by retrieving the Google Web Fonts from a Google server in the USA and the associated transfer of your data to Google. This data is your IP address and which page you have visited on this website. The use of Google Web Fonts is based on Art. 6 para. 1 lit. f DSGVO. As the operator of this website, I have a legitimate interest in the optimal display and transmission of my web presence. The company Google is certified for the US-European data protection convention “Privacy Shield”. This data protection agreement is intended to ensure compliance with the level of data protection applicable in the EU. Details about Google Web Fonts can be found here: https://www.google.com/fonts#AboutPlace:about and further information in the Google Privacy Policy: https://policies.google.com/privacy/partners. ",
+    "url": "https://openair-collective.github.io/openair-cyan/privacy/#google-web-fonts",
+    "relUrl": "/privacy/#google-web-fonts"
+  }
+}
+
