@@ -1,0 +1,211 @@
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700,900&display=swap" rel="stylesheet">
+<style>
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    i {
+        font-size: 2.2rem;
+    }
+
+    p {
+        font-size: 1.4rem;
+    }
+
+    hr {
+        margin-left: 3px;
+        width: 99%;
+        background-color: #dadce0;
+    }
+
+    .content-form {
+        padding: 5%;
+    }
+
+    .card-grid {
+        max-width: 800px;
+        margin: 0 auto;
+        display: grid;
+        grid-gap: 2rem;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+
+    .input-group {
+        display: flex;
+    }
+
+    .card {
+        background-color: #383B40;
+        box-shadow: 2px 2px 12px 1px rgba(8, 8, 8, 0.5);
+        border-radius: 10px;
+    }
+
+    .card-header {
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #00eeff;
+    }
+
+    input[type=submit] {
+        border: none;
+        color: #FEFCFB;
+        background-color: #034078;
+        padding: 15px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        width: 100px;
+        margin-right: 10px;
+        margin-left: 10px;
+        border-radius: 10px;
+        transition-duration: 0.4s;
+    }
+
+    input[type=submit]:hover {
+        background-color: #1282A2;
+    }
+
+    button {
+        border: none;
+        color: #FEFCFB;
+        padding: 15px 32px;
+        text-align: center;
+        font-size: 16px;
+        width: 100px;
+        border-radius: 10px;
+        transition-duration: 0.4s;
+    }
+
+    .ideation label {
+        font-size: 1.2rem;
+        width: 100%;
+        padding: 10px;
+        display: inline-block;
+        text-align: left;
+    }
+
+    .ideation large {
+        width: 100%;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-right: 10px;
+        display: inline-block;
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .ideation small {
+        width: 100%;
+        padding: 10px;
+        display: inline-block;
+        text-align: left;
+    }
+
+    input[type=button] {
+        padding: 1px 2px;
+        margin-left: 10px;
+        text-align: right;
+        border-radius: 6px;
+        display: inline-block;
+        width: auto;
+        font-size: large;
+        color: #1b0c8787;
+    }
+
+    .form-button {
+        border: 0;
+        border-radius: 8px;
+        background: #6f55d5;
+        color: #fff;
+        font-family: "Source Sans Pro", sans-serif;
+        font-weight: bold;
+        font-size: 0.9em;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+        outline-style: none;
+        padding: 10px 20px;
+        /* box-shadow: 2px 2px 4px 1px rgba(8, 8, 8, 0.5); */
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+        width: auto;
+        min-width: 25%;
+        transition-duration: 0.4s;
+    }
+
+    .form-button:hover {
+        background-color: #6f55d5;
+        background-image: linear-gradient(#6f55d5, #5739ce);
+    }
+
+    .form-button:active {
+        background-color: #5739ce;
+        background-image: linear-gradient(#5739ce, #6f55d5);
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    }
+
+    @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+    .form-item {
+        position: relative;
+        padding: 0.5em 2.5em;
+        background: white;
+        color: black;
+        font-family: "Source Sans Pro", sans-serif;
+        width: 95%;
+        margin: 1em auto;
+        box-shadow: 2px 2px 12px 1px rgba(8, 8, 8, 0.5);
+        border-radius: 8px;
+    }
+
+    .form-button:disabled::after,
+    .form-button[disabled]::after {
+        content: "";
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        border: 4px solid transparent;
+        border-top-color: #ffffff;
+        border-radius: 50%;
+        -webkit-animation: button-loading-spinner 1s ease infinite;
+        animation: button-loading-spinner 1s ease infinite;
+    }
+
+    @keyframes button-loading-spinner {
+        from {
+            transform: rotate(0turn);
+        }
+
+        to {
+            transform: rotate(1turn);
+        }
+    }
+
+    @-webkit-keyframes button-loading-spinner {
+        from {
+            transform: rotate(0turn);
+        }
+
+        to {
+            transform: rotate(1turn);
+        }
+    }
+</style>
+<div class="content-form">
+    <div style="color: #47464b;" align="center" class="title">
+        <h1>{{ include.title }}</h1>
+        <hr>
+    </div>
+    <div class="card-grid">
+        <div class="card">
+            <p align="center">
+                Coming Soon
+            </p>
+            
+        </div>
+    </div>
+</div>

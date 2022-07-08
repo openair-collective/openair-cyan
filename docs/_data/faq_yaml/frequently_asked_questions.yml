@@ -1,0 +1,10 @@
+---
+# Use this YAML file to create a list of FAQ questions and answers.
+
+- question: ""
+  answer: ""
+  hyper_link: ""
+  link_description: ""
+  faq_link_id: 1 # This is the ID of the link in the FAQ section. Increment this number for each new question.
+
+---
