@@ -51,4 +51,5 @@ Careful Consideration of your safety is important
 
 {% include custom/alerts/Warning.html content="<i><b>$Ca(OH)_2$ comes in powdered form</b></i> and although it has uses in pickling and gardening, it can do great damage if rubbed into the eyes, inhaled, or ingested. Scoop the material and avoid pouring; if you do pour, a mask should be worn so as not to inhale the dust.
 <br>
+<br>
 <i><b>Do not ingest</b></i> any reactant or product, even the calcium carbonate you produce. It’s never a good idea to eat the products of your chemical reactions. Also, since the aquarium air pump does not have a grounding plug (the case for most such pumps), the safety considerations for working with electricity near water should be observed." %}
