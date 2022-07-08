@@ -32,10 +32,11 @@ $feedback-color: darken($sidebar-color, 7%);
   color: $blue-000;
 }
 
-p > a {
+p>a {
   color: $blue-000;
 }
-p > strong > em > a {
+
+p>strong>em>a {
   color: $blue-000;
 }
 
@@ -43,7 +44,7 @@ p > strong > em > a {
   color: $blue-000;
 }
 
-ul > li > a {
+ul>li>a {
   color: $blue-000;
 }
 
@@ -63,7 +64,7 @@ ul > li > a {
   color: $white;
 }
 
-#main-content svg > path {
+#main-content svg>path {
   fill: $white;
 }
 
@@ -75,4 +76,21 @@ ul > li > a {
 
 .site-footer {
   color: #00ffff;
+}
+
+#main-content .octicon-note {
+  fill: $color-accent-fg-note-dark;
+  vertical-align: middle;
+}
+
+#main-content .icon-span-note {
+  color: $color-accent-fg-note-dark;
+}
+
+#main-content .octicon-note>path {
+  fill: $color-accent-fg-note-dark;
+}
+
+#main-content .octicon-alert>path {
+  fill: $color-accent-fg-warning;
 }

@@ -70,19 +70,19 @@ $red-100: #f96e65 !default;
 $red-200: #e94c4c !default;
 $red-300: #dd2e2e !default;
 
-$body-background-color: $white !default;
-$sidebar-color: $grey-lt-000 !default;
-$search-background-color: $white !default;
-$table-background-color: $white !default;
-$code-background-color: $grey-lt-000 !default;
+$body-background-color: $white  !default;
+$sidebar-color: $grey-lt-000  !default;
+$search-background-color: $white  !default;
+$table-background-color: $white  !default;
+$code-background-color: $grey-lt-000  !default;
 $feedback-color: darken($sidebar-color, 3%) !default;
 
-$body-text-color: $grey-dk-100 !default;
-$body-heading-color: $grey-dk-300 !default;
-$search-result-preview-color: $grey-dk-000 !default;
-$nav-child-link-color: $grey-dk-100 !default;
-$link-color: $purple-000 !default;
-$btn-primary-color: $purple-100 !default;
+$body-text-color: $grey-dk-100  !default;
+$body-heading-color: $grey-dk-300  !default;
+$search-result-preview-color: $grey-dk-000  !default;
+$nav-child-link-color: $grey-dk-100  !default;
+$link-color: $purple-000  !default;
+$btn-primary-color: $purple-100  !default;
 $base-button-color: #f7f7f7 !default;
 
 //
@@ -103,7 +103,7 @@ $spacers: (
   sp-8: $spacing-unit * 3,
   sp-9: $spacing-unit * 3.5,
   sp-10: $spacing-unit * 4,
-) !default;
+  ) !default;
 
 $sp-1: map-get($spacers, sp-1) !default; // 0.25 rem == 4px
 $sp-2: map-get($spacers, sp-2) !default; // 0.5  rem == 8px
@@ -122,22 +122,22 @@ $sp-10: map-get($spacers, sp-10) !default; // 4  rem == 64px
 
 $border: 1px solid !default;
 $border-radius: 4px !default;
-$border-color: $grey-lt-100 !default;
+$border-color: $grey-lt-100  !default;
 
 //
 // Grid system
 //
 
-$gutter-spacing: $sp-6 !default;
-$gutter-spacing-sm: $sp-4 !default;
+$gutter-spacing: $sp-6  !default;
+$gutter-spacing-sm: $sp-4  !default;
 $nav-width: 264px !default;
 $nav-width-md: 248px !default;
-$nav-list-item-height: $sp-6 !default;
-$nav-list-item-height-sm: $sp-8 !default;
+$nav-list-item-height: $sp-6  !default;
+$nav-list-item-height-sm: $sp-8  !default;
 $nav-list-expander-right: true;
 $content-width: 800px !default;
 $header-height: 60px !default;
-$search-results-width: $content-width - $nav-width !default;
+$search-results-width: $content-width - $nav-width  !default;
 $transition-duration: 400ms;
 
 //
@@ -150,4 +150,17 @@ $media-queries: (
   md: $content-width,
   lg: $content-width + $nav-width,
   xl: 1400px,
-) !default;
+  ) !default;
+
+//
+// Alert styles
+//
+
+$color-accent-fg-note: #8400ff;
+$color-accent-fg-success: #02cf86;
+$color-accent-fg-tip: #3c763d;
+$color-accent-fg-warning: #d29922;
+$color-accent-fg-danger: #e70000;
+$color-accent-fg-secondary: #2022a7;
+$color-accent-fg-note-light: #8400ff;
+$color-accent-fg-note-dark: #58a6ff;
