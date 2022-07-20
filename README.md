@@ -18,7 +18,7 @@
 
 # Website
 
-Please checkout our documentation [website](https://openair-collective.github.io/openair-cyan/) 😁
+### Please checkout our documentation [website](https://openair-collective.github.io/openair-cyan/) 😁
 
 # OpenAir-Cyan
 
@@ -54,7 +54,7 @@ The educational experience might be the biggest way that Cyan units will combat 
 
 The [Cyan Assembly Instructions](docs/Reference_Docs/assembly/Cyan_Assembly_Instructions.pdf) will get you started with an overview of how it works, a parts list, and instructions for putting it together. All this information is also found on our [Wiki](https://github.com/openair-collective/openair-cyan/wiki).
 
-We now have a [Cyan Q&A](extras/Cyan_Q_and_A.md) that goes over some common general and technical questions.
+We now have a [Cyan Q&A](https://openair-collective.github.io/openair-cyan/cyan_q_and_a/) that goes over some common general and technical questions.
 
 The [Supporting System Calculations](docs/Reference_Docs/data/Cyan%20-%20Supporting%20System%20Calculations.xlsx) describe the logic that went into designing the system, from a LCA/TEA perspective.
 
