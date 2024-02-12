@@ -1,0 +1,32 @@
+abstract: '<p>The <strong>Cyan Decarbonizer v.1 </strong>is a&nbsp;<em>DIY small-scale
+  open hardware direct air carbon capture</em> (DACC) system created by the OpenAir
+  Collective.&nbsp;</p>
+
+  <p><strong>This project is not currently under development; this is an archived
+  repository.</strong></p>'
+authors:
+- affiliation: '@terranexum'
+  family-names: Dahl Winters
+- family-names: Wilson
+  given-names: David
+  orcid: 0009-0009-9461-8488
+- family-names: Holness
+  given-names: Courtni
+- family-names: Kenyon
+  given-names: Ross
+- family-names: Uwase
+  given-names: Aline
+- affiliation: The OpenAir Collective
+  family-names: Neidl
+  given-names: Chris
+- family-names: Collins
+  given-names: Kristina
+  orcid: 0000-0002-3816-1948
+cff-version: 1.2.0
+date-released: '2024-02-12'
+doi: 10.5281/zenodo.10652006
+license:
+- cc-by-4.0
+title: 'Cyan: A DIY small-scale open hardware direct air carbon capture (DACC) system'
+version: v1.0.0
+url: "https://github.com/openair-collective/openair-cyan"
